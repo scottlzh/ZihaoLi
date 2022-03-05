@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Howdy, y’all!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,31 +8,104 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+
+
+<p>Life is like a box of chocolates, you never know what you're going to get.</p>
+<p style="text-align: right;">-- Forrest Gump (1994)</p>
+
+
+
+
+<hr color="#FFFFFF" />
+
+Biography
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<!-- --------------------------------First Person --------------------------- -->
 
-Getting started
+<div style="text-align: justify"> 
+
+<p>Zihao 'Scott' Li is a PhD student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>. Meanwhile, he has been working with the Mobility Division at Texas A&M Transportation Institute.
+  
+<p>I am a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"
+ style="color:#5dbcd2;">Dr Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. I am investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that they can learn how to communicate between each other explicitly. 
+ My research can be applied to mobility-on-demand systems, automated warehouses, and smart cities.</p> 
+
+
+<p>Prior to joining Cambridge, I was working in <a href="https://www.imperial.ac.uk/hamlyn-centre/" style="color:#5dbcd2;">the Hamlyn Centre</a> at Imperial College London, founded by <a href="https://ieeexplore.ieee.org/author/37276270800" style="color:#5dbcd2;">Prof Guang-Zhong Yang</a> and <a href="https://www.imperial.ac.uk/people/a.darzi" style="color:#5dbcd2;">the Lord Ara Darzi</a>,  in the field of medical robotics and healthcare to earn my MRes in Medical Robotics and Image-Guided Intervention. I was supervised by <a href="https://www.imperial.ac.uk/people/daniel.elson" style="color:#5dbcd2;">Prof Daniel Elson</a> for an eight-month research project about oxygen saturation (StO2) estimation, and graduated with a distinction. I also hold an MEng degree in Mechanical Engineering from the University of Edinburgh.</p> 
+
+<p>I have published papers in the medical imaging area (IJCARS) and the robotics field (IEEE IROS, IEEE Humanoids, and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO, and AAMAS.</p> 
+
+<p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
+
+
+<p><b>News:</b> From July 2021 to Oct 2021, I am working on <a href="https://www.microsoft.com/en-us/research/project/project-silica/" style="color:#5dbcd2;">Project Silica</a> during my internship at Microsoft Research Cambridge. I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment.</p>
+
+</div>
+
+
+<!-- </div> -->
+
+<!-- My research interests include:</p>
+<ul>
+<li>Traffic Operation, Intelligent Transportation System, Artifical Intelligence in Transportation, Transportation Resilience.</li>
+</ul>
+<p> -->
+
+<!-- 
+<p>I am a PhD student at ProrokLab, the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"
+ style="color:#5dbcd2;">Dr Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. 
+I am effectively investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that agents/robots can learn how to communicate between each other explicitly. 
+My research can be applied in mobility-on-demand, automated warehouse and smart cities.</p> 
+
+
+<p>Prior to joining Cambridge,  I joined <a href="https://www.imperial.ac.uk/hamlyn-centre/" style="color:#5dbcd2;">Hamlyn Centre</a> at Imperial College London, found by <a href="https://ieeexplore.ieee.org/author/37276270800" style="color:#5dbcd2;">Prof Guang-Zhong Yang</a> and <a href="https://www.imperial.ac.uk/people/a.darzi" style="color:#5dbcd2;">Prof the Lord Ara Darzi</a>  in the field of medical robots and healthcare for  the MRes in Medical Robotics and Image-Guided Intervention. I was supervised by <a href="https://www.imperial.ac.uk/people/daniel.elson" style="color:#5dbcd2;">Prof Daniel Elson</a> for eight-month research project about oxygen saturation (StO2) estimation, and graduated with Distinction for MRes degree. I also held a MEng degree in Mechanical Engineering at  University of Edinburgh.</p> 
+
+<p>I have published papers in medical imaging area (IJCARS) and robotics field (IEEE IROS, IEEE Humanoids and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO and AAMAS.</p>
+
+<p><b>I am open to collaboration opportunities</b> (anytime & anywhere) and <b>research internships</b> (open for Summer 2021). Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found at <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
+ --> 
+
+
+
+<hr color="#FFFFFF" />
+
+Research Interest
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<ul>
+<li>Robot Learning</li>
+<li>Multi-robot Path Planning</li>
+<li>Graph Neural Networks (GNNs)</li>
+<li>Imitation Learning </li>
+<li>Reinforcement Learning</li>
+<li>Computer Vision (Medical Imaging) </li>
+</ul>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<hr color="#FFFFFF" />
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Publications
+======
+<!--   <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
 
+{% include base_path %}
+
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+ -->
+
+## <i>Journal</i>
+  <ul>{% for post in site.journal reversed %}
+    {% include archive-single-publications.html %}
+  {% endfor %}</ul>
+
+## <i>Conference</i>
+  <ul>{% for post in site.conference reversed %}
+    {% include archive-single-publications.html %}
+  {% endfor %}</ul>
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
