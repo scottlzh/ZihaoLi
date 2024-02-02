@@ -26,8 +26,6 @@ Vision
 <p> Inspired by Stephen Hawking's principle that "One of the basic rules of the universe is that nothing is perfect," we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision is deeply grounded in an extensive understanding of transportation system fundamentals, steering the integration of advanced technology to enhance its safety, stability, efficiency, equity, intellgence, resilience, and sustainability.</p> 
 
 
-<!-- <p> Thoughout my research jounery towards this revolution so far, I have been inspired by my superivisor (<a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>),  (<a href="https://www.science.org/doi/10.1126/scirobotics.aam8638" style="color:#5dbcd2;"> Prof Guang-zhong Yang</a>-->
-
 <hr color="#FFFFFF" />
 </div>
 
@@ -108,88 +106,3 @@ News
 </div>
 
 
-
-<!-- <p><b>2022 News:</b> I am deeply appreciated to receive <a href="https://www.hughes.cam.ac.uk/student-centre/welfare/financial-hardship/" style="color:#5dbcd2;">Chui Wen Mei Memorial Bursary</a> to support my final period of my PhD.</p>
-
-
-<p><b>2022 News:</b> Our paper got accepted in <a href="https://arxiv.org/pdf/2105.08601.pdf" style="color:#5dbcd2;">SSRR 2022</a>.</p>
-
-
-<p><b>2022 News:</b> Our paper was awarded <a href="https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards" style="color:#5dbcd2;">Publication of the Year</a> by the Department of Computer Science and Technology at the University of Cambridge.</p>
-
-
-<p><b>2022 News:</b> Our paper got accepted in <a href="https://arxiv.org/pdf/2012.14906.pdf" style="color:#5dbcd2;">TSP 2022</a>.</p>
-
-<p><b>2022 News:</b> Our (MPhil student co-supervised by me, Matthew Malencia, Prof Amanda Prorok) paper (GNNs for TSP) got accepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
-
-<p><b>2022 News:</b> Our system paper (the first truly decentralized robotics system based on GNNs) got accepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>. Feel free to access our <a href="https://github.com/proroklab/rl_multi_agent_passage" style="color:#5dbcd2;"> public repo</a>. </p>
-
-<p><b>2022 News:</b> Our blue-sky paper got accepted in <a href="https://arxiv.org/pdf/2107.12254.pdf" style="color:#5dbcd2;">AAMAS 2022</a>.</p>
-
-<p><b>2022 News:</b> Invited talk about 'Graph Neural Networks from Robot Learning and Beyond' at ShenlanXueyuan as part of an online course related to Graph Neural Networks developed by <a href="https://www.cse.msu.edu/~tangjili/" style="color:#5dbcd2;">Prof Jiliang Tang</a>. Obtain over 1k view till now.</p>
- -->
-
-
-
-
-<!-- </div> -->
-
-<!-- My research interests include:</p>
-<ul>
-<li>Traffic Operation, Intelligent Transportation System, Artifical Intelligence in Transportation, Transportation Resilience.</li>
-</ul>
-<p> -->
-
-<!-- 
-<p>I am a PhD student at ProrokLab, the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"
- style="color:#5dbcd2;">Dr Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. 
-I am effectively investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that agents/robots can learn how to communicate between each other explicitly. 
-My research can be applied in mobility-on-demand, automated warehouse and smart cities.</p> 
-
-
-<p>Prior to joining Cambridge,  I joined <a href="https://www.imperial.ac.uk/hamlyn-centre/" style="color:#5dbcd2;">Hamlyn Centre</a> at Imperial College London, found by <a href="https://ieeexplore.ieee.org/author/37276270800" style="color:#5dbcd2;">Prof Guang-Zhong Yang</a> and <a href="https://www.imperial.ac.uk/people/a.darzi" style="color:#5dbcd2;">Prof the Lord Ara Darzi</a>  in the field of medical robots and healthcare for  the MRes in Medical Robotics and Image-Guided Intervention. I was supervised by <a href="https://www.imperial.ac.uk/people/daniel.elson" style="color:#5dbcd2;">Prof Daniel Elson</a> for eight-month research project about oxygen saturation (StO2) estimation, and graduated with Distinction for MRes degree. I also held a MEng degree in Mechanical Engineering at  University of Edinburgh.</p> 
-
-<p>I have published papers in medical imaging area (IJCARS) and robotics field (IEEE IROS, IEEE Humanoids and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO and AAMAS.</p>
-
-<p><b>I am open to collaboration opportunities</b> (anytime & anywhere) and <b>research internships</b> (open for Summer 2021). Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found at <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
- --> 
-
-
-
-Publications
-======
-<!--   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-{% include base_path %}
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
-
-## <i>Journal</i>
-  <ul>{% for post in site.journal reversed %}
-    {% include archive-single-publications.html %}
-  {% endfor %}</ul>
-
-## <i>Conference</i>
-  <ul>{% for post in site.conference reversed %}
-    {% include archive-single-publications.html %}
-  {% endfor %}</ul>
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
