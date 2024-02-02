@@ -51,7 +51,7 @@ Biography
 
 
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (scottlzh[AT]tamu.edu).
-
+</div>
 
 Education
 ======
@@ -81,7 +81,7 @@ Research Interest
 </ul>
 
 <hr color="#FFFFFF" />
-
+</div>
 
 News
 ======
@@ -98,7 +98,7 @@ News
 
 <p><b>2023 News:</b> Our paper have been accpeted in IEEE ITSC 2023.
 
-
+</div>
 
 
 
@@ -122,7 +122,7 @@ News
 <p><b>2022 News:</b> Invited talk about 'Graph Neural Networks from Robot Learning and Beyond' at ShenlanXueyuan as part of an online course related to Graph Neural Networks developed by <a href="https://www.cse.msu.edu/~tangjili/" style="color:#5dbcd2;">Prof Jiliang Tang</a>. Obtain over 1k view till now.</p>
  -->
 
-</div>
+
 
 
 <!-- </div> -->
@@ -148,21 +148,6 @@ My research can be applied in mobility-on-demand, automated warehouse and smart 
  --> 
 
 
-
-<hr color="#FFFFFF" />
-
-Research Interest
-======
-<ul>
-<li>Robot Learning</li>
-<li>Multi-robot Path Planning</li>
-<li>Graph Neural Networks (GNNs)</li>
-<li>Imitation Learning </li>
-<li>Reinforcement Learning</li>
-<li>Computer Vision (Medical Imaging) </li>
-</ul>
-
-<hr color="#FFFFFF" />
 
 Publications
 ======
