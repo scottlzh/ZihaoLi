@@ -6,7 +6,7 @@ author_profile: true
 permalink: /publications/ 
 ---
 
-<p>For more detailed information, plese visity my<a href="https://scholar.google.com/citations?user=7dLezg0AAAAJ&hl=en" style="color:#5dbcd2;"> Google Scholar</a> </p>
+<p>For more detailed information, please visit my<a href="https://scholar.google.com/citations?user=7dLezg0AAAAJ&hl=en" style="color:#5dbcd2;"> Google Scholar</a> </p>
 
 
 
