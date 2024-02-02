@@ -42,20 +42,15 @@ Biography
 <p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>.
 
 
-
-  Meanwhile, he had been working with the <a href="https://mobility.tamu.edu/" style="color:#5dbcd2;"> Mobility Division </a> at Texas A&M Transportation Institute.
-
-
-<p>Prior to joining Cambridge, I was working in <a href="https://www.imperial.ac.uk/hamlyn-centre/" style="color:#5dbcd2;">the Hamlyn Centre</a> at Imperial College London, founded by <a href="https://ieeexplore.ieee.org/author/37276270800" style="color:#5dbcd2;">Prof Guang-Zhong Yang</a> and <a href="https://www.imperial.ac.uk/people/a.darzi" style="color:#5dbcd2;">the Lord Ara Darzi</a>,  in the field of medical robotics and healthcare to earn my MRes in Medical Robotics and Image-Guided Intervention. I was supervised by <a href="https://www.imperial.ac.uk/people/daniel.elson" style="color:#5dbcd2;">Prof Daniel Elson</a> for an eight-month research project about oxygen saturation (StO2) estimation, and graduated with a distinction. I also hold an MEng degree in Mechanical Engineering from the University of Edinburgh.</p> 
-
-
-
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (scottlzh[AT]tamu.edu).
 </div>
 
 Education
 ======
-<h2>Texas A&M University</h2>, College Station, Texas <p style="text-align: right;">2020-2024</p>
+<div style="display: flex; justify-content: space-between;">
+  <b>Texas A&M University</b>, College Station, Texas
+  <p style="margin-left: auto;">2020-2024</p>
+</div>
 * Ph.D., Zachry Department of Civil & Environmental Engineering
 * <b>Dissertation</b>: TBD
 
@@ -82,6 +77,16 @@ Research Interest
 
 <hr color="#FFFFFF" />
 </div>
+
+Academic and Industry Experience
+======
+<div style="display: flex; justify-content: space-between;">
+  <b>Teaching Assistant</b>, CVEN 307 Transportation Engineering
+  <p style="margin-left: auto;">Aug.2020 - Dec.2023</p>
+</div>
+* Zachry Department of Civil and Environmental Engineering, TAMU
+
+
 
 News
 ======
