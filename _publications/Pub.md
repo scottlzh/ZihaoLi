@@ -14,7 +14,7 @@ permalink: /publications/
 
 Journal Publications
 ======
-<b>J1</b>. <b>Li, Z. </b>, Wei, Z., Kong, X., Zhang, Y., & Ma, C. (2023). Interpretable Machine Learning Framework to Studying Mobility Inequity in the Recovery Phase of COVID-19 Pandemic. <i>Travel Behaviour and Society, 33, 100621</i>. <br/>
+[J1] <u>Li, Z. </u>, Wei, Z., Kong, X., Zhang, Y., & Ma, C. (2023). Interpretable Machine Learning Framework to Studying Mobility Inequity in the Recovery Phase of COVID-19 Pandemic. <i>Travel Behaviour and Society, 33, 100621</i>. <br/>
 
 <b>J2</b>. <b>Li, Z. </b>, Kong, X., & Zhang, Y. (2023). Exploration of factors associated with pedestrian assertiveness while crossing unsignalized intersections.  <i>Transportation Research Record 2677(6): 182-198</i>. <br/>
 
