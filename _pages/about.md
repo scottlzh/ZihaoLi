@@ -52,7 +52,7 @@ Education
   <span><b><span style="font-size: 24px;">Texas A&M University</span>
     <span><b><span style="">College Station</span>
   <span style="text-align: right;">2020-2024</span>
-
+</div>
 
 <p><strong>Ph.D.</strong>, Zachry Department of Civil & Environmental Engineering</p>
 <p><strong>Dissertation</strong>: TBD</p>
@@ -72,7 +72,6 @@ Education
 
 
 <hr color="#FFFFFF" />
-</div>
 
 Research Interest
 ======
@@ -85,7 +84,6 @@ Research Interest
 </ul>
 
 <hr color="#FFFFFF" />
-</div>
 
 Academic and Industry Experience
 ======
@@ -96,7 +94,7 @@ Academic and Industry Experience
 * Zachry Department of Civil and Environmental Engineering, TAMU
 
 <hr color="#FFFFFF" />
-</div>
+
 
 News
 ======
