@@ -44,20 +44,20 @@ Biography
 
 Education
 ======
-<div style="font-size: 22px;"><b>Texas A&M University</b></div><br/>
+<div style="font-size: 22px;"><b>Texas A&M University</b></div>
 College Station, United States<br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2020-2024<br/>
 <strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
 <br/>
 
-<div  style="font-size: 22px;"><b>Tsinghua University</b><div><br/>
-Beijing, China</span><br/>
+<div  style="font-size: 22px;"><b>Tsinghua University</b></div>
+Beijing, China<br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2017-2020<br/>
 <strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
 <br/>
 
-<div style="font-size: 22px;"><b>Northeastern University</b><div><br/>
-Shenyang, China</span><br/>
+<div style="font-size: 22px;"><b>Northeastern University</b></div>
+Shenyang, China<br/>
 <strong>B.Eng.</strong>, School of Resource and Civil Engineering, 2013-2017<br/>
 <strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent<br/>
 
@@ -107,8 +107,8 @@ Competitions
 
 Academic and Industry Experience
 ======
-<div style="font-size: 22px;"><b>Texas A&M University</b></div><br/>
-College Station, United States<br/>
+<div style="font-size: 22px;"><b>Research Assistant</b></div>
+Apr.2021 - Aug.2023<br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2020-2024<br/>
 <strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
 <br/>
