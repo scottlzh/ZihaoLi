@@ -19,6 +19,19 @@ redirect_from:
 
 <hr color="#FFFFFF" />
 
+Vision
+======
+<div style="text-align: justify"> 
+
+<p> Inspired by Stephen Hawking's principle that "One of the basic rules of the universe is that nothing is perfect," we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision is deeply grounded in an extensive understanding of transportation system fundamentals, steering the integration of advanced technology to enhance its safety, stability, efficiency, equity, intellgence, resilience, and sustainability.</p> 
+
+
+<!-- <p> Thoughout my research jounery towards this revolution so far, I have been inspired by my superivisor (<a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>),  (<a href="https://www.science.org/doi/10.1126/scirobotics.aam8638" style="color:#5dbcd2;"> Prof Guang-zhong Yang</a>-->
+
+<hr color="#FFFFFF" />
+</div>
+
+
 Biography
 ======
 
@@ -26,21 +39,88 @@ Biography
 
 <div style="text-align: justify"> 
 
-<p>Zihao 'Scott' Li is a final-year PhD student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>. Meanwhile, he had been working with the <a href="https://mobility.tamu.edu/" style="color:#5dbcd2;"> Mobility Division </a> at Texas A&M Transportation Institute.
-  
-<p>I am a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"
- style="color:#5dbcd2;">Dr Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. I am investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that they can learn how to communicate between each other explicitly. 
- My research can be applied to mobility-on-demand systems, automated warehouses, and smart cities.</p> 
+<p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>.
+
+
+
+  Meanwhile, he had been working with the <a href="https://mobility.tamu.edu/" style="color:#5dbcd2;"> Mobility Division </a> at Texas A&M Transportation Institute.
 
 
 <p>Prior to joining Cambridge, I was working in <a href="https://www.imperial.ac.uk/hamlyn-centre/" style="color:#5dbcd2;">the Hamlyn Centre</a> at Imperial College London, founded by <a href="https://ieeexplore.ieee.org/author/37276270800" style="color:#5dbcd2;">Prof Guang-Zhong Yang</a> and <a href="https://www.imperial.ac.uk/people/a.darzi" style="color:#5dbcd2;">the Lord Ara Darzi</a>,  in the field of medical robotics and healthcare to earn my MRes in Medical Robotics and Image-Guided Intervention. I was supervised by <a href="https://www.imperial.ac.uk/people/daniel.elson" style="color:#5dbcd2;">Prof Daniel Elson</a> for an eight-month research project about oxygen saturation (StO2) estimation, and graduated with a distinction. I also hold an MEng degree in Mechanical Engineering from the University of Edinburgh.</p> 
 
-<p>I have published papers in the medical imaging area (IJCARS) and the robotics field (IEEE IROS, IEEE Humanoids, and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO, and AAMAS.</p> 
-
-<p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
 
 
-<p><b>News:</b> From July 2021 to Oct 2021, I am working on <a href="https://www.microsoft.com/en-us/research/project/project-silica/" style="color:#5dbcd2;">Project Silica</a> during my internship at Microsoft Research Cambridge. I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment.</p>
+<p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (scottlzh[AT]tamu.edu).
+
+
+Education
+======
+<h2>Texas A&M University</h2>, College Station, Texas <p style="text-align: right;">2020-2024</p>
+* Ph.D., Zachry Department of Civil & Environmental Engineering
+* <b>Dissertation</b>: TBD
+
+
+<h2>Tsinghua University</h2>, Beijing, China <p style="text-align: right;">2017-2020</p>
+* M.S., Department of Engineering Physics
+* <b>Thesis</b>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data
+
+<!-- ## <i>Northeastern University</i>, 2011-2013 ## -->
+<h2>Northeastern University</h2>, Shenyang, China <p style="text-align: right;">2013-2017</p>
+* B.Eng., School of Resource and Civil Engineering
+* <b>Thesis</b>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent 
+
+
+Research Interest
+======
+<ul>
+<li>Cyber-Physical Transportation Resilience</li>
+<li>AI and Data Analytics Applications on Transportation</li>
+<li>Connected Automated Transportation System and Vehicle Control </li>
+<li>Traffic Operation and Safety  </li>
+<li>Traffic Flow Theory </li>
+</ul>
+
+<hr color="#FFFFFF" />
+
+
+News
+======
+
+<div style="text-align: justify"> 
+
+<p><b>2023 News:</b> I am deeply appreciative to receive <a href="https://grad.tamu.edu/knowledge-center/funding-and-benefits/2023-2024-dissertation-fellowship-awardees" style="color:#5dbcd2;"> the 2023-2024 Dissertation Fellowship </a> to support my final phase of my PhD.</p>
+
+<p><b>2023 News:</b> Two of my papers have been accepted for lecture sessions, and one for a poster session, at the 103rd TRBAM.
+
+<p><b>2023 News:</b> Our paper have been accpeted in ICSMD 2023.
+
+<p><b>2023 News:</b> We won 1st place in <a href="https://highways.dot.gov/research/safety/hsis/Excellence-Awards" style="color:#5dbcd2;">2023 Excellence in Highway Safety Data Award</a>, hosted by FHWA.
+
+<p><b>2023 News:</b> Our paper have been accpeted in IEEE ITSC 2023.
+
+
+
+
+
+<!-- <p><b>2022 News:</b> I am deeply appreciated to receive <a href="https://www.hughes.cam.ac.uk/student-centre/welfare/financial-hardship/" style="color:#5dbcd2;">Chui Wen Mei Memorial Bursary</a> to support my final period of my PhD.</p>
+
+
+<p><b>2022 News:</b> Our paper got accepted in <a href="https://arxiv.org/pdf/2105.08601.pdf" style="color:#5dbcd2;">SSRR 2022</a>.</p>
+
+
+<p><b>2022 News:</b> Our paper was awarded <a href="https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards" style="color:#5dbcd2;">Publication of the Year</a> by the Department of Computer Science and Technology at the University of Cambridge.</p>
+
+
+<p><b>2022 News:</b> Our paper got accepted in <a href="https://arxiv.org/pdf/2012.14906.pdf" style="color:#5dbcd2;">TSP 2022</a>.</p>
+
+<p><b>2022 News:</b> Our (MPhil student co-supervised by me, Matthew Malencia, Prof Amanda Prorok) paper (GNNs for TSP) got accepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
+
+<p><b>2022 News:</b> Our system paper (the first truly decentralized robotics system based on GNNs) got accepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>. Feel free to access our <a href="https://github.com/proroklab/rl_multi_agent_passage" style="color:#5dbcd2;"> public repo</a>. </p>
+
+<p><b>2022 News:</b> Our blue-sky paper got accepted in <a href="https://arxiv.org/pdf/2107.12254.pdf" style="color:#5dbcd2;">AAMAS 2022</a>.</p>
+
+<p><b>2022 News:</b> Invited talk about 'Graph Neural Networks from Robot Learning and Beyond' at ShenlanXueyuan as part of an online course related to Graph Neural Networks developed by <a href="https://www.cse.msu.edu/~tangjili/" style="color:#5dbcd2;">Prof Jiliang Tang</a>. Obtain over 1k view till now.</p>
+ -->
 
 </div>
 
