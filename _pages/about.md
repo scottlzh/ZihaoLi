@@ -22,7 +22,7 @@ Vision
 ======
 <div style="text-align: justify"> 
 
-<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</i> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision is deeply grounded in an extensive understanding of transportation system fundamentals, steering the integration of advanced technology to enhance its safety, stability, efficiency, equity, intellgence, resilience, and sustainability.</p> 
+<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</i> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision is deeply grounded in an extensive understanding of transportation system fundamentals, steering the integration of advanced technology to enhance its <b>safety</b>, <b>stability</b>, <b>efficiency</b>, <b>equity</b>, <b>intellgence</b>, <b>resilience</b>, and <b>sustainability</b>.</p> 
 
 
 <hr color="#FFFFFF" />
@@ -47,14 +47,12 @@ Education
 <div style="font-size: 22px;"><b>Texas A&M University</b></div>
 College Station, United States<br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2020-2024<br/>
-<strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
-<br/>
+<strong>Dissertation</strong>: Enhancing the Cyber-Physical Resilience of Connected Automated Vehicle System<br/>
 
 <div  style="font-size: 22px;"><b>Tsinghua University</b></div>
 Beijing, China<br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2017-2020<br/>
 <strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
-<br/>
 
 <div style="font-size: 22px;"><b>Northeastern University</b></div>
 Shenyang, China<br/>
@@ -83,7 +81,7 @@ Honors & Awards
 <li>2023-2024 Texas A&M University Dissertation Fellowship, Top 1% (2024)</li>
 <li>TAMU Graduate School Research and Presentation Travel Award (2023)</li>
 <li>Texas A&M Transportation Institute (TTI) Keese-Wootan Transportation Fellowship, Top 5% (2022) </li>
-<li>TITS Texas Scholarship, Top 1% (2021)  </li>
+<li>ITS Texas Scholarship, Top 1% (2021)  </li>
 <li>Zachry Department of Civil & Environmental Engineering Excellence Fellowship (2020)</li>
 <li>Tsinghua University Excellence Scholarship, Top 5% (2019)</li>
 <li>Direct Admission to the Graduate School at Tsinghua University, Top 1% (2017)</li>
@@ -107,7 +105,7 @@ Competitions
 
 Academic and Industry Experience
 ======
-<b>Teaching Assistant</b>, Aug.2023-Dec.2023<br/>
+<b>Teaching Assistant</b>, Aug.2023 - Dec.2023<br/>
 Zachry Department of Civil and Environmental Engineering, TAMU<br/>
 
 <b>Research Assistant</b>, Apr.2021 - Aug.2023<br/>
