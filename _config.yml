@@ -11,15 +11,9 @@ title                    : "Zihao's homepage"
 title_separator          : "-"
 name                     : &name "Zihao 'Scott' Li"
 description              : &description "personal description"
-<<<<<<< HEAD
-url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://scottlzh.github.io/" # the subpath of your site, e.g. "/blog"
-repository               : "ZihaoLi.github.io/"
-=======
 url                      : "https://scottlzh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZihaoLi.github.io"
->>>>>>> 89df33ff40e05881b28f26fd582ce3f70efe4a1a
+baseurl                  : "ZihaoLi.github.io" # the subpath of your site, e.g. "/blog"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
