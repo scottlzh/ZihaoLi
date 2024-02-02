@@ -42,6 +42,19 @@ Biography
 
 <hr color="#FFFFFF" />
 
+Research Interest
+======
+<ul>
+<li>Robot Learning</li>
+<li>Multi-robot Path Planning</li>
+<li>Graph Neural Networks (GNNs)</li>
+<li>Imitation Learning </li>
+<li>Reinforcement Learning</li>
+<li>Computer Vision (Medical Imaging) </li>
+</ul>
+
+<hr color="#FFFFFF" />
+
 Education
 ======
 <div style="text-align: justify"> 
