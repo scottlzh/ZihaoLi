@@ -43,18 +43,16 @@ Biography
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.
 
 <hr color="#FFFFFF" />
-
-
+</div>
 
 Education
 ======
-<div>
 
 <div style="display: flex; justify-content: space-between;">
   <span><b><span style="font-size: 24px;">Texas A&M University</span>
     <span><b><span style="">College Station</span>
   <span style="text-align: right;">2020-2024</span>
-</div>
+
 
 <p><strong>Ph.D.</strong>, Zachry Department of Civil & Environmental Engineering</p>
 <p><strong>Dissertation</strong>: TBD</p>
