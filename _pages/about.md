@@ -34,28 +34,30 @@ Vision
 
 Biography
 ======
-
+<div>
 <!-- --------------------------------First Person --------------------------- -->
 
 
 <p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>.
 
-
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.
+
 <hr color="#FFFFFF" />
+</div>
+
 
 Education
 ======
+
+
 <div style="display: flex; justify-content: space-between;">
   <span><b><span style="font-size: 24px;">Texas A&M University</span>
     <span><b><span style="">College Station</span>
   <span style="text-align: right;">2020-2024</span>
-</div>
-
-<span style="font-size: larger;"><b>Texas A&M University</b>, College Station, Texas</span>
-<p>2020-2024</p>
 <p><strong>Ph.D.</strong>, Zachry Department of Civil & Environmental Engineering</p>
 <p><strong>Dissertation</strong>: TBD</p>
+</div>
+
 <br>
 
 <span><b>Tsinghua University</b>, Beijing, China</span>
