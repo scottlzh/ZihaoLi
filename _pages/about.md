@@ -44,19 +44,19 @@ Biography
 
 Education
 ======
-<span style="font-size: 22px;"><b>Texas A&M University</b><bt/>
-College Station, United States</span><br/>
+<div style="font-size: 22px;"><b>Texas A&M University</b></div><br/>
+College Station, United States<br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2020-2024<br/>
 <strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
 <br/>
 
-<span style="font-size: 22px;"><b>Tsinghua University</b><br/>
+<div  style="font-size: 22px;"><b>Tsinghua University</b><div><br/>
 Beijing, China</span><br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2017-2020<br/>
 <strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
 <br/>
 
-<span style="font-size: 22px;"><b>Northeastern University</b><br/>
+<div style="font-size: 22px;"><b>Northeastern University</b><div><br/>
 Shenyang, China</span><br/>
 <strong>B.Eng.</strong>, School of Resource and Civil Engineering, 2013-2017<br/>
 <strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent<br/>
@@ -107,14 +107,21 @@ Competitions
 
 Academic and Industry Experience
 ======
+<div style="font-size: 22px;"><b>Texas A&M University</b></div><br/>
+College Station, United States<br/>
+<strong>M.S.</strong>, Department of Engineering Physics, 2020-2024<br/>
+<strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
+<br/>
+
+
 <div style="display: flex; justify-content: space-between;">
-  <b>Research Assistant</b>, Mobility Division
+  <b>Research Assistant</b>, Mobility Division 
   <p style="margin-left: auto;">Apr.2021 - Aug.2023<br/>
 </div>
 * Texas A&M Transportation Institute (TTI)
 <br/>
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <b>Research Assistant</b>
   <p style="margin-left: auto;">Jan.2021 - Apr.2021<br/>
 </div>
@@ -133,7 +140,7 @@ Academic and Industry Experience
   <p style="margin-left: auto;">Jan.2017 - May.2017<br/>
 </div>
 * BMW Brilliance Automotive, Shenyang, China
-<br/>
+<br/> -->
 
 <hr color="#FFFFFF" />
 
