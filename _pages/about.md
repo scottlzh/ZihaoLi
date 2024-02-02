@@ -35,7 +35,7 @@ Biography
 <!-- --------------------------------First Person --------------------------- -->
 
 
-<p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>.</p>
+<p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering (CVEN), at Texas A&M University (TAMU) under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>.</p>
 
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.</p>
 
@@ -107,40 +107,20 @@ Competitions
 
 Academic and Industry Experience
 ======
-<div style="font-size: 22px;"><b>Research Assistant</b></div>
-Apr.2021 - Aug.2023<br/>
-<strong>M.S.</strong>, Department of Engineering Physics, 2020-2024<br/>
-<strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
-<br/>
+<b>Teaching Assistant</b>, Aug.2023-Dec.2023<br/>
+Zachry Department of Civil and Environmental Engineering, TAMU<br/>
 
+<b>Research Assistant</b>, Apr.2021 - Aug.2023<br/>
+Mobility Division, Texas A&M Transportation Institute (TTI)<br/>
 
-<div style="display: flex; justify-content: space-between;">
-  <b>Research Assistant</b>, Mobility Division 
-  <p style="margin-left: auto;">Apr.2021 - Aug.2023<br/>
-</div>
-* Texas A&M Transportation Institute (TTI)
-<br/>
+<b>Research Assistant</b>, Jan.2021 - Apr.2021<br/>
+Zachry Department of Civil and Environmental Engineering, TAMU<br/>
 
-<!-- <div style="display: flex; justify-content: space-between;">
-  <b>Research Assistant</b>
-  <p style="margin-left: auto;">Jan.2021 - Apr.2021<br/>
-</div>
-* Zachry Department of Civil and Environmental Engineering, TAMU
-<br/>
+<b>Data Analyst Intern</b>, Mar.2019 - Jun.2019<br/>
+DIDI Chuxing (China’s largest ride-hailing company), Beijing, China<br/>
 
-<div style="display: flex; justify-content: space-between;">
-  <b>Data Analyst Intern</b>
-  <p style="margin-left: auto;">Mar.2019 - Jun.2019<br/>
-</div>
-* DIDI Chuxing (China’s largest ride-hailing company), Beijing, China
-<br/>
-
-<div style="display: flex; justify-content: space-between;">
-  <b>R&D Intern </b>
-  <p style="margin-left: auto;">Jan.2017 - May.2017<br/>
-</div>
-* BMW Brilliance Automotive, Shenyang, China
-<br/> -->
+<b>R&D Intern</b>, Jan.2017 - May.2017<br/>
+BMW Brilliance Automotive, Shenyang, China <br/>
 
 <hr color="#FFFFFF" />
 
