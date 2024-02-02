@@ -43,14 +43,13 @@ Biography
 
 
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (scottlzh[AT]tamu.edu).
+<hr color="#FFFFFF" />
 </div>
 
 Education
 ======
-<div style="display: flex; justify-content: space-between;">
-  <b>Texas A&M University</b>, College Station, Texas
-  <p style="margin-left: auto;">2020-2024</p>
-</div>
+<span><b>Texas A&M University</b>, College Station, Texas</span>
+<span>2020-2024</span>
 * Ph.D., Zachry Department of Civil & Environmental Engineering
 * <b>Dissertation</b>: TBD
 
@@ -64,6 +63,9 @@ Education
 * B.Eng., School of Resource and Civil Engineering
 * <b>Thesis</b>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent 
 
+
+<hr color="#FFFFFF" />
+</div>
 
 Research Interest
 ======
@@ -86,7 +88,8 @@ Academic and Industry Experience
 </div>
 * Zachry Department of Civil and Environmental Engineering, TAMU
 
-
+<hr color="#FFFFFF" />
+</div>
 
 News
 ======
