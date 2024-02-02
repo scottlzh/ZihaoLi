@@ -59,7 +59,6 @@ Education
 <br>
 
 <span style="font-size: 24px;"><b>Northeastern University</b>, Shenyang, China</span>
-<span><b>Northeastern University</b>, Shenyang, China</span>
 <p><b>Period:</b> 2013-2017</p>
 <p><strong>B.Eng.</strong>, School of Resource and Civil Engineering</p>
 <p><strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent</p>
