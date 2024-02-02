@@ -47,6 +47,12 @@ Biography
 
 Education
 ======
+<div style="display: flex; justify-content: space-between;">
+  <span style="font-size: larger;"><b>Texas A&M University</b>, College Station, Texas</span>
+  <span style="text-align: right;">2020-2024</span>
+</div>
+
+
 <span style="font-size: larger;"><b>Texas A&M University</b>, College Station, Texas</span>
 <p>2020-2024</p>
 <p><strong>Ph.D.</strong>, Zachry Department of Civil & Environmental Engineering</p>
