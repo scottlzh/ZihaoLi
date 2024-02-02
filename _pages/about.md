@@ -10,7 +10,6 @@ redirect_from:
 
 
 
-
 <p>Life is like a box of chocolates, you never know what you're going to get.</p>
 <p style="text-align: right;">-- Forrest Gump (1994)</p>
 
@@ -36,9 +35,9 @@ Biography
 <!-- --------------------------------First Person --------------------------- -->
 
 
-<p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>.
+<p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>.</p>
 
-<p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.
+<p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.</p>
 
 <hr color="#FFFFFF" />
 
