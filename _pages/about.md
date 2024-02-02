@@ -44,17 +44,20 @@ Biography
 
 Education
 ======
-<span style="font-size: 24px;"><b>Texas A&M University</b>, College Station, United States</span><br/>
+<span style="font-size: 22px;"><b>Texas A&M University</b><bt/>
+College Station, United States</span><br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2020-2024<br/>
 <strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
 <br/>
 
-<span style="font-size: 24px;"><b>Tsinghua University</b>, Beijing, China</span><br/>
+<span style="font-size: 22px;"><b>Tsinghua University</b><br/>
+Beijing, China</span><br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2017-2020<br/>
 <strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
 <br/>
 
-<span style="font-size: 24px;"><b>Northeastern University</b>, Shenyang, China</span><br/>
+<span style="font-size: 22px;"><b>Northeastern University</b><br/>
+Shenyang, China</span><br/>
 <strong>B.Eng.</strong>, School of Resource and Civil Engineering, 2013-2017<br/>
 <strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent<br/>
 
@@ -62,6 +65,19 @@ Education
 <hr color="#FFFFFF" />
 
 Research Interest
+======
+<ul>
+<li>Cyber-Physical Transportation Resilience</li>
+<li>AI and Data Analytics Applications on Transportation</li>
+<li>Connected Automated Transportation System and Vehicle Control </li>
+<li>Traffic Operation and Safety  </li>
+<li>Traffic Flow Theory </li>
+</ul>
+
+
+<hr color="#FFFFFF" />
+
+Honors & Awards
 ======
 <ul>
 <li>2023-2024 Texas A&M University Dissertation Fellowship, Top 1% (2024)</li>
@@ -79,24 +95,12 @@ Research Interest
 
 <hr color="#FFFFFF" />
 
-Honors & Awards
-======
-<ul>
-<li>Cyber-Physical Transportation Resilience</li>
-<li>AI and Data Analytics Applications on Transportation</li>
-<li>Connected Automated Transportation System and Vehicle Control </li>
-<li>Traffic Operation and Safety  </li>
-<li>Traffic Flow Theory </li>
-</ul>
-
-<hr color="#FFFFFF" />
-
 Competitions
 ======
 <ul>
-<li>FHWA: 2023 Excellence in Highway Safety Data Award (1st place), <i>Equitable traffic crash prediction framework to support safety improvement grants allocation</i>. <b>(Co-Leader)<b></li>
-<li>ITE: Vision Zero Sandbox Design Competition under the student chapter (1st place), <i>Countermeasure Selection Using Near-Miss Data to Support Vision Zero in Bellevue</i>. <b>(Lead in methodology)<b></li>
-<li>ASA: Virtual 2021 Joint Statistical Meeting Program for the honorable mention paper, <i>Discovering Reasons and Patterns for Bridges with Fast Deteriorating Deck Conditions</i>. <b>(Lead in methodology)<b></li>
+<li>FHWA: 2023 Excellence in Highway Safety Data Award (1st place), <i>Equitable traffic crash prediction framework to support safety improvement grants allocation</i>. <b>(Co-Leader)</b> </li>
+<li>ITE: Vision Zero Sandbox Design Competition under the student chapter (1st place), <i>Countermeasure Selection Using Near-Miss Data to Support Vision Zero in Bellevue</i>. <b>(Lead in methodology)</b></li>
+<li>ASA: Virtual 2021 Joint Statistical Meeting Program for the honorable mention paper, <i>Discovering Reasons and Patterns for Bridges with Fast Deteriorating Deck Conditions</i>. <b>(Lead in methodology)</b></li>
 </ul>
 
 <hr color="#FFFFFF" />
@@ -108,24 +112,29 @@ Academic and Industry Experience
   <p style="margin-left: auto;">Apr.2021 - Aug.2023<br/>
 </div>
 * Texas A&M Transportation Institute (TTI)
+<br/>
 
 <div style="display: flex; justify-content: space-between;">
   <b>Research Assistant</b>
   <p style="margin-left: auto;">Jan.2021 - Apr.2021<br/>
 </div>
 * Zachry Department of Civil and Environmental Engineering, TAMU
+<br/>
 
 <div style="display: flex; justify-content: space-between;">
   <b>Data Analyst Intern</b>
   <p style="margin-left: auto;">Mar.2019 - Jun.2019<br/>
 </div>
 * DIDI Chuxing (China’s largest ride-hailing company), Beijing, China
+<br/>
 
 <div style="display: flex; justify-content: space-between;">
   <b>R&D Intern </b>
   <p style="margin-left: auto;">Jan.2017 - May.2017<br/>
 </div>
 * BMW Brilliance Automotive, Shenyang, China
+<br/>
+
 <hr color="#FFFFFF" />
 
 
