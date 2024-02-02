@@ -47,16 +47,14 @@ Biography
 
 Education
 ======
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <span><b>Texas A&M University</b>, College Station, Texas</span> <style="text-align: right;">-- Forrest Gump (1994)<>
-</div>
+<span><b>Texas A&M University</b>, College Station, Texas</span> <style="text-align: right;"> 2020-2024 <
 * Ph.D., Zachry Department of Civil & Environmental Engineering
-* <b>Dissertation</b>: TBD
+<p>* <b>Dissertation</b>: TBD </p>
 
 
 <h2>Tsinghua University</h2>, Beijing, China <p style="text-align: right;">2017-2020</p>
 * M.S., Department of Engineering Physics
-* <b>Thesis</b>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data
+<p>* <b>Thesis</b>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data </p>
 
 <!-- ## <i>Northeastern University</i>, 2011-2013 ## -->
 <h2>Northeastern University</h2>, Shenyang, China <p style="text-align: right;">2013-2017</p>
