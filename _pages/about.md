@@ -65,7 +65,6 @@ Education
 
 
 <hr color="#FFFFFF" />
-</div>
 
 Research Interest
 ======
