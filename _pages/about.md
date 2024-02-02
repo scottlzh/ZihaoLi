@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<p>Life is like a box of chocolates, you never know what you're going to get.</p>
+<p><i>"Life is like a box of chocolates, you never know what you're going to get."</i></p>
 <p style="text-align: right;">-- Forrest Gump (1994)</p>
 
 
@@ -22,7 +22,7 @@ Vision
 ======
 <div style="text-align: justify"> 
 
-<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</i> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision is deeply grounded in an extensive understanding of transportation system fundamentals, steering the integration of advanced technology to enhance its <b>safety</b>, <b>stability</b>, <b>efficiency</b>, <b>equity</b>, <b>intellgence</b>, <b>resilience</b>, and <b>sustainability</b>.</p> 
+<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</i> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision emphasizes first gaining a deep understanding of the fundamentals of transportation systems, which then guides the thoughtful integration of advanced technology. This approach aims to improve <b>safety</b>, <b>stability</b>, <b>efficiency</b>, <b>equity</b>, <b>intellgence</b>, <b>resilience</b>, and <b>sustainability</b> of our transportation system.</p> 
 
 
 <hr color="#FFFFFF" />
@@ -35,7 +35,7 @@ Biography
 <!-- --------------------------------First Person --------------------------- -->
 
 
-<p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering (CVEN), at Texas A&M University (TAMU) under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>.</p>
+<p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering (CVEN), at Texas A&M University (TAMU) under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>. He is currently the subcommittee member of the TRB Standing Committee of Artificial Intelligence and Advanced Computing Applications. </p>
 
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.</p>
 
@@ -46,7 +46,7 @@ Education
 ======
 <div style="font-size: 22px;"><b>Texas A&M University</b></div>
 College Station, United States<br/>
-<strong>M.S.</strong>, Department of Engineering Physics, 2020-2024<br/>
+<strong>Ph.D.</strong>, Zachry Department of Civil and Environmental Engineering, 2020-2024<br/>
 <strong>Dissertation</strong>: Enhancing the Cyber-Physical Resilience of Connected Automated Vehicle System<br/>
 
 <div  style="font-size: 22px;"><b>Tsinghua University</b></div>
@@ -126,9 +126,7 @@ BMW Brilliance Automotive, Shenyang, China <br/>
 News
 ======
 
-<div style="text-align: justify"> 
-
-<p><b>2023 News:</b> I am deeply appreciative to receive <a href="https://grad.tamu.edu/knowledge-center/funding-and-benefits/2023-2024-dissertation-fellowship-awardees" style="color:#5dbcd2;"> the 2023-2024 Dissertation Fellowship </a> to support my final phase of my PhD.</p>
+<p><b>2023 News:</b> I am deeply appreciative to receive <a href="https://grad.tamu.edu/knowledge-center/funding-and-benefits/2023-2024-dissertation-fellowship-awardees" style="color:#5dbcd2;"> the 2023-2024 Dissertation Fellowship </a> to support my final phase of my Ph.D.</p>
 
 <p><b>2023 News:</b> Two of my papers have been accepted for lecture sessions, and one for a poster session, at the 103rd TRBAM.
 
@@ -138,6 +136,5 @@ News
 
 <p><b>2023 News:</b> Our paper have been accpeted in IEEE ITSC 2023.
 
-</div>
 
 
