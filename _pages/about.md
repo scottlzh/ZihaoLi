@@ -47,7 +47,8 @@ Biography
 Education
 ======
 <div style="display: flex; justify-content: space-between;">
-  <span><b><span style="font-size: 24px;">Texas A&M University</span></b>, College Station, Texas</span>
+  <span><b><span style="font-size: 24px;">Texas A&M University</span>
+    <span><b><span style="">College Station</span>
   <span style="text-align: right;">2020-2024</span>
 </div>
 
