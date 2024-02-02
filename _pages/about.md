@@ -44,6 +44,7 @@ Biography
 
 Education
 ======
+<div style="text-align: justify"> 
 <p><strong>Texas A&M University</strong>, College Station, United States</p>
 <p><strong>M.S.</strong>, Department of Engineering Physics, 2020-2024</p>
 <p><strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data</p>
@@ -61,6 +62,7 @@ Education
 
 
 <hr color="#FFFFFF" />
+</div>
 
 Research Interest
 ======
