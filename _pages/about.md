@@ -22,7 +22,7 @@ Vision
 ======
 <div style="text-align: justify"> 
 
-<p> Inspired by Stephen Hawking's principle that "One of the basic rules of the universe is that nothing is perfect," we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision is deeply grounded in an extensive understanding of transportation system fundamentals, steering the integration of advanced technology to enhance its safety, stability, efficiency, equity, intellgence, resilience, and sustainability.</p> 
+<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision is deeply grounded in an extensive understanding of transportation system fundamentals, steering the integration of advanced technology to enhance its safety, stability, efficiency, equity, intellgence, resilience, and sustainability.</p> 
 
 
 <hr color="#FFFFFF" />
@@ -41,42 +41,45 @@ Biography
 
 <hr color="#FFFFFF" />
 
+
+Education
+======
+<span style="font-size: 24px;"><b>Texas A&M University</b>, College Station, United States</span><br/>
+<strong>M.S.</strong>, Department of Engineering Physics, 2020-2024<br/>
+<strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
+<br/>
+
+<span style="font-size: 24px;"><b>Tsinghua University</b>, Beijing, China</span><br/>
+<strong>M.S.</strong>, Department of Engineering Physics, 2017-2020<br/>
+<strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
+<br/>
+
+<span style="font-size: 24px;"><b>Northeastern University</b>, Shenyang, China</span><br/>
+<strong>B.Eng.</strong>, School of Resource and Civil Engineering, 2013-2017<br/>
+<strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent<br/>
+
+
+<hr color="#FFFFFF" />
+
 Research Interest
 ======
 <ul>
-<li>Robot Learning</li>
-<li>Multi-robot Path Planning</li>
-<li>Graph Neural Networks (GNNs)</li>
-<li>Imitation Learning </li>
-<li>Reinforcement Learning</li>
-<li>Computer Vision (Medical Imaging) </li>
+<li>2023-2024 Texas A&M University Dissertation Fellowship, Top 1% (2024)</li>
+<li>TAMU Graduate School Research and Presentation Travel Award (2023)</li>
+<li>Texas A&M Transportation Institute (TTI) Keese-Wootan Transportation Fellowship, Top 5% (2022) </li>
+<li>TITS Texas Scholarship, Top 1% (2021)  </li>
+<li>Zachry Department of Civil & Environmental Engineering Excellence Fellowship (2020)</li>
+<li>Tsinghua University Excellence Scholarship, Top 5% (2019)</li>
+<li>Direct Admission to the Graduate School at Tsinghua University, Top 1% (2017)</li>
+<li>Northeastern University Outstanding Student, Top 1% (2017)</li>
+<li>Outstanding Bachelor’s Graduation Thesis in Northeastern University, Top 5% (2017)</li>
+<li>Dalian Alumni Association Scholarship in Northeastern University (2016)</li>
+<li>Northeastern University Excellence Scholarships, Top 5% (2015, 2016, 2017)</li>
 </ul>
 
 <hr color="#FFFFFF" />
 
-Education
-======
-<div style="text-align: justify"> 
-<p><strong>Texas A&M University</strong>, College Station, United States</p>
-<p><strong>M.S.</strong>, Department of Engineering Physics, 2020-2024</p>
-<p><strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data</p>
-<br>
-
-<p><strong>Tsinghua University</strong>, Beijing, China</p>
-<p><strong>M.S.</strong>, Department of Engineering Physics, 2017-2020</p>
-<p><strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data</p>
-<br>
-
-<p><strong>Northeastern University</strong>, Shenyang, China</p>  
-<p><strong>B.Eng.</strong>, School of Resource and Civil Engineering, 2013-2017</p>
-<p><strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent</p>
-
-
-
-<hr color="#FFFFFF" />
-</div>
-
-Research Interest
+Honors & Awards
 ======
 <ul>
 <li>Cyber-Physical Transportation Resilience</li>
@@ -88,14 +91,41 @@ Research Interest
 
 <hr color="#FFFFFF" />
 
+Competitions
+======
+<ul>
+<li>FHWA: 2023 Excellence in Highway Safety Data Award (1st place), <i>Equitable traffic crash prediction framework to support safety improvement grants allocation</i>. <b>(Co-Leader)<b></li>
+<li>ITE: Vision Zero Sandbox Design Competition under the student chapter (1st place), <i>Countermeasure Selection Using Near-Miss Data to Support Vision Zero in Bellevue</i>. <b>(Lead in methodology)<b></li>
+<li>ASA: Virtual 2021 Joint Statistical Meeting Program for the honorable mention paper, <i>Discovering Reasons and Patterns for Bridges with Fast Deteriorating Deck Conditions</i>. <b>(Lead in methodology)<b></li>
+</ul>
+
+<hr color="#FFFFFF" />
+
 Academic and Industry Experience
 ======
 <div style="display: flex; justify-content: space-between;">
-  <b>Teaching Assistant</b>, CVEN 307 Transportation Engineering
-  <p style="margin-left: auto;">Aug.2020 - Dec.2023</p>
+  <b>Research Assistant</b>, Mobility Division
+  <p style="margin-left: auto;">Apr.2021 - Aug.2023<br/>
+</div>
+* Texas A&M Transportation Institute (TTI)
+
+<div style="display: flex; justify-content: space-between;">
+  <b>Research Assistant</b>
+  <p style="margin-left: auto;">Jan.2021 - Apr.2021<br/>
 </div>
 * Zachry Department of Civil and Environmental Engineering, TAMU
 
+<div style="display: flex; justify-content: space-between;">
+  <b>Data Analyst Intern</b>
+  <p style="margin-left: auto;">Mar.2019 - Jun.2019<br/>
+</div>
+* DIDI Chuxing (China’s largest ride-hailing company), Beijing, China
+
+<div style="display: flex; justify-content: space-between;">
+  <b>R&D Intern </b>
+  <p style="margin-left: auto;">Jan.2017 - May.2017<br/>
+</div>
+* BMW Brilliance Automotive, Shenyang, China
 <hr color="#FFFFFF" />
 
 
