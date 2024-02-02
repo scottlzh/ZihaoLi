@@ -46,10 +46,8 @@ Biography
 
 Education
 ======
-
-
 <span style="font-size: 24px;"><b>Texas A&M University</b>, College Station, United States</span>
-<p>Period:</p> 2020-2024
+<p><b>Period:</b> 2020-2024</p>
 <p><strong>M.S.</strong>, Department of Engineering Physics</p>
 <p><strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data</p>
 <br>
