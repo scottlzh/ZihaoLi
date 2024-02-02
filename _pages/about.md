@@ -47,15 +47,17 @@ Biography
 
 Education
 ======
-<span><b>Texas A&M University</b>, College Station, Texas</span>
+<span style="font-size: 24px;"><b>Texas A&M University</b>, College Station, Texas</span>
 <p>2020-2024</p>
 <p><strong>Ph.D.</strong>, Zachry Department of Civil & Environmental Engineering</p>
 <p><strong>Dissertation</strong>: TBD</p>
+<br>
 
 <span><b>Tsinghua University</b>, Beijing, China</span>
 <p>2017-2020</p>
 <p><strong>M.S.</strong>, Department of Engineering Physics</p>
 <p><strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data</p>
+<br>
 
 <span><b>Northeastern University</b>, Shenyang, China</span>
 <p>2013-2017</p>
