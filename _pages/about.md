@@ -47,21 +47,21 @@ Biography
 
 Education
 ======
-<div style="display: flex; justify-content: space-between;">
-  <span><b>Texas A&M University</b>, College Station, Texas</span>
-  <span style="text-align: right;">2020-2024</span>
-</div>
-<p>Ph.D., Zachry Department of Civil & Environmental Engineering</p>
+<span><b>Texas A&M University</b>, College Station, Texas</span>
+<p>2020-2024</p>
+<p><strong>Ph.D.</strong>, Zachry Department of Civil & Environmental Engineering</p>
 <p><strong>Dissertation</strong>: TBD</p>
 
-<h2>Tsinghua University</h2>, Beijing, China <p style="text-align: right;">2017-2020</p>
-* M.S., Department of Engineering Physics
-<p>* <b>Thesis</b>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data </p>
+<span><b>Tsinghua University</b>, Beijing, China</span>
+<p>2017-2020</p>
+<p><strong>M.S.</strong>, Department of Engineering Physics</p>
+<p><strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data</p>
 
-<!-- ## <i>Northeastern University</i>, 2011-2013 ## -->
-<h2>Northeastern University</h2>, Shenyang, China <p style="text-align: right;">2013-2017</p>
-* B.Eng., School of Resource and Civil Engineering
-<p>* <b>Thesis</b>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent </p>
+<span><b>Northeastern University</b>, Shenyang, China</span>
+<p>2013-2017</p>
+<p><strong>B.Eng.</strong>, School of Resource and Civil Engineering</p>
+<p><strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent</p>
+
 
 
 <hr color="#FFFFFF" />
