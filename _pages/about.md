@@ -26,7 +26,7 @@ Biography
 
 <div style="text-align: justify"> 
 
-<p>Zihao 'Scott' Li is a PhD student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>. Meanwhile, he has been working with the Mobility Division at Texas A&M Transportation Institute.
+<p>Zihao 'Scott' Li is a final-year PhD student in the Zachry Department of Civil and Environment Engineering, at Texas A&M University under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>. Meanwhile, he had been working with the <a href="https://mobility.tamu.edu/" style="color:#5dbcd2;"> Mobility Division </a> at Texas A&M Transportation Institute.
   
 <p>I am a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"
  style="color:#5dbcd2;">Dr Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. I am investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that they can learn how to communicate between each other explicitly. 
