@@ -43,12 +43,11 @@ Biography
 
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.
 <hr color="#FFFFFF" />
-</div>
 
 Education
 ======
 <div style="display: flex; justify-content: space-between;">
-  <span><b>Texas A&M University</b>, College Station, Texas</span>
+  <span style="font-size: larger;"><b>Texas A&M University</b>, College Station, Texas</span>
   <span style="text-align: right;">2020-2024</span>
 </div>
 
