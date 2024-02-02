@@ -47,20 +47,23 @@ Biography
 Education
 ======
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <span><b><span style="font-size: 24px;">Texas A&M University</span>
     <!-- <span><b><span style="">College Station</span> -->
   <span style="text-align: right;">2020-2024</span>
-</div>
+</div> -->
 
-<p><strong>Ph.D.</strong>, Zachry Department of Civil & Environmental Engineering</p>
-<p><strong>Dissertation</strong>: TBD</p>
+
+<span style="font-size: 24px;"><b>Texas A&M University</b>, College Station, United States</span>
+<p>Period:</p> 2020-2024
+<p><strong>M.S.</strong>, Department of Engineering Physics</p>
+<p><strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data</p>
 <br>
 
 <span><b>Tsinghua University</b>, Beijing, China</span>
-<p>2017-2020</p>
+<p>Period:</p> 2017-2020
 <p><strong>M.S.</strong>, Department of Engineering Physics</p>
-<p><strong>Dissertation</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data</p>
+<p><strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data</p>
 <br>
 
 <span><b>Northeastern University</b>, Shenyang, China</span>
