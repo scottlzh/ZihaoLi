@@ -43,7 +43,6 @@ Biography
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.
 
 <hr color="#FFFFFF" />
-</div>
 
 Education
 ======
