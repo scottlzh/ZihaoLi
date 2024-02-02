@@ -49,8 +49,9 @@ Education
 ======
 <div style="display: flex; justify-content: space-between;">
   <span><b>Texas A&M University</b>, College Station, Texas</span>
-  <span><strong>2020-2024</strong></span>
+  <span style="text-align: right;">2020-2024</span>
 </div>
+<p>Ph.D., Zachry Department of Civil & Environmental Engineering</p>
 <p><strong>Dissertation</strong>: TBD</p>
 
 <h2>Tsinghua University</h2>, Beijing, China <p style="text-align: right;">2017-2020</p>
