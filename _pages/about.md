@@ -22,7 +22,7 @@ Vision
 ======
 <div style="text-align: justify"> 
 
-<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision is deeply grounded in an extensive understanding of transportation system fundamentals, steering the integration of advanced technology to enhance its safety, stability, efficiency, equity, intellgence, resilience, and sustainability.</p> 
+<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</i> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision is deeply grounded in an extensive understanding of transportation system fundamentals, steering the integration of advanced technology to enhance its safety, stability, efficiency, equity, intellgence, resilience, and sustainability.</p> 
 
 
 <hr color="#FFFFFF" />
