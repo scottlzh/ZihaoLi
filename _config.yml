@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zihao's homepage"
 title_separator          : "-"
-name                     : &name "Zihao 'Scott' Li"
+name                     : &name "Zihao “Scott” Li"
 description              : &description "personal description"
 url                      : "https://scottlzh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
