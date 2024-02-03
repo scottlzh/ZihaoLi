@@ -16,7 +16,6 @@ Lectures and Invited Talks
 T1.  &emsp; Ranking Port Impact for Incoming Tropical Cyclones: A Recommendation Algorithm. <i>103rd TRB, Washington DC, USA, Jan 2024.</i> <br/>
 
 
-
 T2. &emsp;  Enhancing Vehicular Platoon Stability in the Presence of Communication Cyberattacks: A Reliable Longitudinal Cooperative Control Strategy. <i>103rd TRB, Washington DC, USA, Jan 2024.</i> <br/>
 
 
