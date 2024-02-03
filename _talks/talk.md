@@ -26,7 +26,7 @@ T3.  &emsp; AI in Transportation – Feature Engineering. <i>Graduate Course-CVE
 T4. &emsp;  Machine learning in Traffic Signal Control. <i>Graduate Course-CVEN 618</i>, Texas A&M University, May 2023 <br/><br/>
 
 
-T5. &emsp;  AI in Transportation – Feature Engineering. <i>Undergraduate Course-CVEN 307</i>, Texas A&M University, Apr 2023 <br/><br/>
+T5. &emsp;  AI in Transportation – Feature Engineering. <i>Undergraduate Course-CVEN 307</i>, Texas A&M University, Apr 2023
 </p>
 
 </div>
