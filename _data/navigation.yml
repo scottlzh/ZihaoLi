@@ -1,8 +1,5 @@
 # main links links
 main:
-  # - title: "Research"
-  #   url: /research/
-  #   # the url should be matched with folder
 
   - title: "Research"
     url: /publications/    
@@ -14,7 +11,7 @@ main:
     url: /talks/
         
   - title: "Skills & Hobbies"
-    url: /portolio/
+    url: /skill/
     
   # - title: "CV"
   #   url: /cv/
