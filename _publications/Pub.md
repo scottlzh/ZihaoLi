@@ -41,6 +41,7 @@ permalink: /publications/
 
 Journal Publications
 ======
+
 <div style="text-align: justify"> 
 <p> J1. &emsp;  <b><u>Li, Z.</u></b>, Wei, Z., Kong, X., Zhang, Y., & Ma, C. (2023). Interpretable Machine Learning Framework to Studying Mobility Inequity in the Recovery Phase of COVID-19 Pandemic. <i>Travel Behaviour and Society, 33, 100621</i>. <br/><br/>
 
@@ -69,6 +70,7 @@ J9. &emsp;  Wei, Z., Das, S., Wu, Y., <b><u>Li, Z.</u></b>, & Zhang, Y., (2024).
 
 Publications Under Review
 ======
+
 <div style="text-align: justify"> 
 <p> J10. &emsp;  <b><u>Li, Z.</u></b>, Zhou, Y., Zhang, Y., & Li, X. (2024). Enhancing Vehicular Platoon Stability in the Presence of Communication Cyberattacks: A Reliable Longitudinal Cooperative Control Strategy.  <i> Transportation Research Part C: Emerging Technologies</i>. (1st round)<br/><br/>
 
@@ -86,8 +88,9 @@ J16. &emsp;  Zhang, H., Zhou, Y., Zou, Y., <b><u>Li, Z.</u></b>, & Tang, S. Inte
 </p> <br/>
 </div>
 
-PRESENTATION & CONFERENCE PROCEEDINGS
+Presentations & Conference Proceedings
 ======
+
 <div style="text-align: justify"> 
 <p> C1.  &emsp; <b><u>Li, Z.</u></b>, Zhou, Y., & Zhang, Y., (2024). Enhancing Vehicular Platoon Stability in the Presence of Communication Cyberattacks: A Reliable Longitudinal Cooperative Control Strategy. <i>Transportation Research Board (TRB) 103rd Annual Meeting</i>. <br/><br/>
 

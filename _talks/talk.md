@@ -10,7 +10,7 @@ permalink: /talks/
 
 <hr color="#FFFFFF" />
 
-Lectures and Invited Talks
+Lectures & Invited Talks
 ======
 <div style="text-align: justify"> 
 
