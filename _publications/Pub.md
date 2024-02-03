@@ -38,7 +38,7 @@ permalink: /publications/
 Journal Publications
 ======
 <div style="text-align: justify"> 
-J1. &emsp;  <b><u>Li, Z.</u></b>, Wei, Z., Kong, X., Zhang, Y., & Ma, C. (2023). Interpretable Machine Learning Framework to Studying Mobility Inequity in the Recovery Phase of COVID-19 Pandemic. <i>Travel Behaviour and Society, 33, 100621</i>. <br/>
+<p> J1. &emsp;  <b><u>Li, Z.</u></b>, Wei, Z., Kong, X., Zhang, Y., & Ma, C. (2023). Interpretable Machine Learning Framework to Studying Mobility Inequity in the Recovery Phase of COVID-19 Pandemic. <i>Travel Behaviour and Society, 33, 100621</i>. <br/>
 
 J2. &emsp;  <b><u>Li, Z.</u></b>, Kong, X., & Zhang, Y. (2023). Exploration of factors associated with pedestrian assertiveness while crossing unsignalized intersections.  <i>Transportation Research Record 2677(6): 182-198</i>. <br/>
 
@@ -60,7 +60,7 @@ J7.  &emsp; Zhou, Y., <b><u>Li, Z.</u></b>, Meng, Y., Li, Z., & Zhong, M. (2021)
 J8.  &emsp; <b><u>Li, Z.</u></b>, Tian, X., Li, Z., Liu, W., Zhou, Z., & Zhong, M. (2019). Risk analysis of metro station passenger flow based on passenger flow patterns. <i> Journal of Tsinghua University (Science & Technology), 59 (10), 854-860</i>. <br/>
 
 
-J9. &emsp;  Wei, Z., Das, S., Wu, Y., <b><u>Li, Z.</u></b>, & Zhang, Y., (2024). Investigating the exposure-lag-response association of hourly weather and speed variation factors on rural freeway crash risk: A space-time-stratified case-crossover study. <i> Accident Analysis & Prevention, 195, 107411</i>. <br/>
+J9. &emsp;  Wei, Z., Das, S., Wu, Y., <b><u>Li, Z.</u></b>, & Zhang, Y., (2024). Investigating the exposure-lag-response association of hourly weather and speed variation factors on rural freeway crash risk: A space-time-stratified case-crossover study. <i> Accident Analysis & Prevention, 195, 107411</i>. <br/></p> 
 </div>
 
 Publications Under Review
