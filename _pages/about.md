@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-<p><i>"Life is like a box of chocolates, you never know what you're going to get."</i></p>
-<p style="text-align: right;">-- Forrest Gump (1994)</p>
+<p><i>"The future depends on what you do today."</i></p>
+<p style="text-align: right;">-- Mahatma Gandhi</p>
 
 
 
@@ -22,8 +22,8 @@ Vision
 ======
 <div style="text-align: justify"> 
 
-<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</i> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions.<br/>
-As a transportation researcher, my vision emphasizes first gaining a deep understanding of the fundamentals of transportation systems, which then guides the thoughtful integration of advanced technology. This approach aims to improve <b>safety</b>, <b>stability</b>, <b>efficiency</b>, <b>equity</b>, <b>intellgence</b>, <b>resilience</b>, and <b>sustainability</b> of our transportation system.</p> 
+<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</i> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions.</p>
+<p> As a transportation researcher, my vision emphasizes first gaining a deep understanding of the fundamentals of transportation systems, which then guides the thoughtful integration of advanced technology. This approach aims to improve <b>safety</b>, <b>stability</b>, <b>efficiency</b>, <b>equity</b>, <b>intellgence</b>, <b>resilience</b>, and <b>sustainability</b> of our transportation system.</p> 
 
 
 <hr color="#FFFFFF" />
