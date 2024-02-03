@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Assistant"
 collection: portfolio
 author_profile: true
 permalink: /teaching/ 
