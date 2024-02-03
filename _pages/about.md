@@ -58,6 +58,7 @@ Research Interest
 
 Education
 ======
+<div style="text-align: justify"> 
 <div style="font-size: 22px;"><b>Texas A&M University</b></div>
 College Station, United States<br/>
 <strong>Ph.D.</strong>, Zachry Department of Civil and Environmental Engineering, 2020-2024<br/>
@@ -75,9 +76,12 @@ Shenyang, China<br/>
 
 
 <hr color="#FFFFFF" />
+</div>
 
 Honors & Awards
 ======
+
+<div style="text-align: justify"> 
 <ul>
 <li>2023-2024 Texas A&M University Dissertation Fellowship, Top 1% (2024)</li>
 <li>TAMU Graduate School Research and Presentation Travel Award (2023)</li>
@@ -93,9 +97,12 @@ Honors & Awards
 </ul>
 
 <hr color="#FFFFFF" />
+</div>
 
 Competitions
 ======
+<div style="text-align: justify"> 
+
 <ul>
 <li>FHWA: 2023 Excellence in Highway Safety Data Award (1st place), <i>Equitable traffic crash prediction framework to support safety improvement grants allocation</i>. <b>(Co-Leader)</b> </li>
 <li>ITE: Vision Zero Sandbox Design Competition under the student chapter (1st place), <i>Countermeasure Selection Using Near-Miss Data to Support Vision Zero in Bellevue</i>. <b>(Lead in methodology)</b></li>
@@ -103,9 +110,12 @@ Competitions
 </ul>
 
 <hr color="#FFFFFF" />
+</div>
+
 
 Academic and Industry Experience
 ======
+<div style="text-align: justify"> 
 <b>Teaching Assistant</b>, Aug.2023 - Dec.2023<br/>
 Zachry Department of Civil and Environmental Engineering, TAMU<br/>
 
@@ -122,11 +132,11 @@ DIDI Chuxing (China’s largest ride-hailing company), Beijing, China<br/>
 BMW Brilliance Automotive, Shenyang, China <br/>
 
 <hr color="#FFFFFF" />
-
+</div>
 
 News
 ======
-
+<div style="text-align: justify"> 
 <p><b>2023 News:</b> I am deeply appreciative to receive <a href="https://grad.tamu.edu/knowledge-center/funding-and-benefits/2023-2024-dissertation-fellowship-awardees" style="color:#5dbcd2;"> the 2023-2024 Dissertation Fellowship </a> to support my final phase of my Ph.D.</p>
 
 <p><b>2023 News:</b> Two of my papers have been accepted for lecture sessions and one for a poster session at the 103rd TRBAM.
@@ -136,6 +146,6 @@ News
 <p><b>2023 News:</b> We won 1st place in <a href="https://highways.dot.gov/research/safety/hsis/Excellence-Awards" style="color:#5dbcd2;">2023 Excellence in Highway Safety Data Award</a>, hosted by FHWA.
 
 <p><b>2023 News:</b> Our paper has been accepted in IEEE ITSC 2023.
-
+</div>
 
 

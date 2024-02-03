@@ -12,6 +12,7 @@ permalink: /talks/
 
 Lectures and Invited Talks
 ======
+<div style="text-align: justify"> 
 
 T1.  &emsp; Ranking Port Impact for Incoming Tropical Cyclones: A Recommendation Algorithm. <i>103rd TRB, Washington DC, USA, Jan 2024.</i> <br/>
 
@@ -27,9 +28,11 @@ T4. &emsp;  Machine learning in Traffic Signal Control. <i>Graduate Course-CVEN 
 
 T5. &emsp;  AI in Transportation – Feature Engineering. <i>Undergraduate Course-CVEN 307</i>, Texas A&M University, Apr 2023 <br/>
 
+</div>
 
 Academic Service
 ======
+<div style="text-align: justify"> 
 <b>Journal Referee</b>
 
 <li>IEEE Transaction on Intelligent Transportation Systems</li>
@@ -42,3 +45,5 @@ Academic Service
 <li>IEEE Conference on Intelligent Transportation Systems (IEEE ITSC)</li>
 <li>Transportation Research Board Annual Meeting</li>
 <li>IEEE Forum on Integrated and Sustainable Transportation System (FISTS) </li>
+
+</div>
