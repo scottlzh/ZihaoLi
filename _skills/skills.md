@@ -3,7 +3,7 @@ layout: archive
 title: "Skills"
 collection: portfolio
 author_profile: true
-permalink: /skills/ 
+permalink: /skill/ 
 ---
 
 <!-- Skills -->
