@@ -58,21 +58,23 @@ Research Interest
 
 Education
 ======
-<div style="text-align: justify"> 
+<p><div style="text-align: justify"> 
 <div style="font-size: 22px;"><b>Texas A&M University</b></div>
 College Station, United States<br/>
 <strong>Ph.D.</strong>, Zachry Department of Civil and Environmental Engineering, 2020-2024<br/>
-<strong>Dissertation</strong>: Enhancing the Cyber-Physical Resilience of Connected Automated Vehicle System<br/>
+<strong>Dissertation</strong>: Enhancing the Cyber-Physical Resilience of Connected Automated Vehicle System<br/></p>
 
-<div  style="font-size: 22px;"><b>Tsinghua University</b></div>
+<p><div  style="font-size: 22px;"><b>Tsinghua University</b></div>
 Beijing, China<br/>
 <strong>M.S.</strong>, Department of Engineering Physics, 2017-2020<br/>
-<strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/>
+<strong>Thesis</strong>: Analysis of Operation Resilience in Metro Network based on Passenger Flow Data<br/></p>
 
-<div style="font-size: 22px;"><b>Northeastern University</b></div>
+
+<p><div style="font-size: 22px;"><b>Northeastern University</b></div>
 Shenyang, China<br/>
 <strong>B.Eng.</strong>, School of Resource and Civil Engineering, 2013-2017<br/>
-<strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent<br/>
+<strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent<br/></p>
+
 
 
 <hr color="#FFFFFF" />
@@ -116,20 +118,20 @@ Competitions
 Academic and Industry Experience
 ======
 <div style="text-align: justify"> 
-<b>Teaching Assistant</b>, Aug.2023 - Dec.2023<br/>
-Zachry Department of Civil and Environmental Engineering, TAMU<br/>
+<li><b>Teaching Assistant</b>, Aug.2023 - Dec.2023<br/>
+Zachry Department of Civil and Environmental Engineering, TAMU<br/></li>
 
-<b>Research Assistant</b>, Apr.2021 - Aug.2023<br/>
-Mobility Division, Texas A&M Transportation Institute (TTI)<br/>
+<li><b>Research Assistant</b>, Apr.2021 - Aug.2023<br/>
+Mobility Division, Texas A&M Transportation Institute (TTI)<br/></li>
 
-<b>Research Assistant</b>, Jan.2021 - Apr.2021<br/>
-Zachry Department of Civil and Environmental Engineering, TAMU<br/>
+<li><b>Research Assistant</b>, Jan.2021 - Apr.2021<br/>
+Zachry Department of Civil and Environmental Engineering, TAMU<br/></li>
 
-<b>Data Analyst Intern</b>, Mar.2019 - Jun.2019<br/>
-DIDI Chuxing (China’s largest ride-hailing company), Beijing, China<br/>
+<li><b>Data Analyst Intern</b>, Mar.2019 - Jun.2019<br/>
+DIDI Chuxing (China’s largest ride-hailing company), Beijing, China<br/></li>
 
-<b>R&D Intern</b>, Jan.2017 - May.2017<br/>
-BMW Brilliance Automotive, Shenyang, China <br/>
+<li><b>R&D Intern</b>, Jan.2017 - May.2017<br/>
+BMW Brilliance Automotive, Shenyang, China <br/></li>
 
 <hr color="#FFFFFF" />
 </div>
