@@ -64,7 +64,7 @@ J7.  &emsp; Zhou, Y., <b><u>Li, Z.</u></b>, Meng, Y., Li, Z., & Zhong, M. (2021)
 J8.  &emsp; <b><u>Li, Z.</u></b>, Tian, X., Li, Z., Liu, W., Zhou, Z., & Zhong, M. (2019). Risk analysis of metro station passenger flow based on passenger flow patterns. <i> Journal of Tsinghua University (Science & Technology), 59 (10), 854-860</i>. <br/><br/>
 
 
-J9. &emsp;  Wei, Z., Das, S., Wu, Y., <b><u>Li, Z.</u></b>, & Zhang, Y., (2024). Investigating the exposure-lag-response association of hourly weather and speed variation factors on rural freeway crash risk: A space-time-stratified case-crossover study. <i> Accident Analysis & Prevention, 195, 107411</i>. <br/><br/></p> 
+J9. &emsp;  Wei, Z., Das, S., Wu, Y., <b><u>Li, Z.</u></b>, & Zhang, Y., (2024). Investigating the exposure-lag-response association of hourly weather and speed variation factors on rural freeway crash risk: A space-time-stratified case-crossover study. <i> Accident Analysis & Prevention, 195, 107411</i>. </p> <br/>
 </div>
 
 Publications Under Review
@@ -82,8 +82,8 @@ J14. &emsp;  Ma, C., <b><u>Li, Z.</u></b>, Wang, X., Zhang, Y., & Mahmoudzadeh, 
 
 J15. &emsp;  Wei, Z., Zhou, Y., <b><u>Li, Z.</u></b>, Kulkarni, M., Zhang, Y. (2024) Equitable traffic crash prediction framework to support safety improvement grants allocation: A Fair Learning Approach. Accident  <i> Analysis & Prevention</i>. (under review)<br/><br/>
 
-J16. &emsp;  Zhang, H., Zhou, Y., Zou, Y., <b><u>Li, Z.</u></b>, & Tang, S. Integrated Control of Lane-Changing and Car-Following based on Parametrized Deep Q-Network with Hybrid Action Space.  <i> Neurocomputing</i>.(under review)<br/><br/>
-</p> 
+J16. &emsp;  Zhang, H., Zhou, Y., Zou, Y., <b><u>Li, Z.</u></b>, & Tang, S. Integrated Control of Lane-Changing and Car-Following based on Parametrized Deep Q-Network with Hybrid Action Space.  <i> Neurocomputing</i>.(under review)
+</p> <br/>
 </div>
 
 PRESENTATION & CONFERENCE PROCEEDINGS
@@ -113,7 +113,7 @@ C10. &emsp;  Ma, C., Wang, X., <b><u>Li, Z.</u></b>, & Zhang, Y. (2022). An Adap
 
 C11. &emsp;  Kong, X., <b><u>Li, Z.</u></b>, Wallis, J., & Zhang, Y. (2022). Investigating Factors Influencing Deck Conditions of Concrete Bridge and Steel Bridge Using an Interpretable Machine Learning Framework.  <i> Transportation Research Board (TRB) 101st Annual Meeting</i>. <br/><br/>
 
-C12. &emsp;  <b><u>Li, Z.</u></b>, Zhou, Y., Li, Z., Zhou, W., & Zhong, M. (2020). Impact analysis of new metro line opening on passenger flow: A case study of Shenzhen.  <i> 2019 8th International Conference on Transportation and Traffic Engineering</i>. <br/><br/>
+C12. &emsp;  <b><u>Li, Z.</u></b>, Zhou, Y., Li, Z., Zhou, W., & Zhong, M. (2020). Impact analysis of new metro line opening on passenger flow: A case study of Shenzhen.  <i> 2019 8th International Conference on Transportation and Traffic Engineering</i>.<br/>
 </p> 
 
 <hr color="#FFFFFF" />
