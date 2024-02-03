@@ -46,10 +46,10 @@ J4.  &emsp; Kong, X., <b><u>Li, Z.</u></b>, Zhang, Y., Chen, X., Das, S., & Shey
 J5.&emsp;   Wei, Z., <b><u>Li, Z.</u></b>, Kulkarni, M., Yue, X. (2023). Equitable traffic crash prediction framework to support safety improvement grants allocation.  <i>Institute of Transportation Engineer (ITE) Journal, 96 (9), 37-45</i>. <br/>
 
 
-J6. &emsp;  Kong, X., <b>Li, Z. </b>, Zhang, Y., & Das, S. (2022). Bridge Deck Deterioration: Reasons and Patterns. <i> Transportation Research Record, 03611981221080140</i>. <br/>
+J6. &emsp;  Kong, X., <b><u>Li, Z.</u></b>, Zhang, Y., & Das, S. (2022). Bridge Deck Deterioration: Reasons and Patterns. <i> Transportation Research Record, 03611981221080140</i>. <br/>
 
 
-J7.  &emsp; Zhou, Y., <b>Li, Z. </b>, Meng, Y., Li, Z., & Zhong, M. (2021). Analyzing spatio-temporal impacts of extreme rainfall events on metro ridership characteristics. <i> Physica A: Statistical Mechanics and its Applications, 577, 126053</i>. <br/>
+J7.  &emsp; Zhou, Y., <b><u>Li, Z.</u></b>, Meng, Y., Li, Z., & Zhong, M. (2021). Analyzing spatio-temporal impacts of extreme rainfall events on metro ridership characteristics. <i> Physica A: Statistical Mechanics and its Applications, 577, 126053</i>. <br/>
 
 
 J8.  &emsp; <b><u>Li, Z.</u></b>, Tian, X., Li, Z., Liu, W., Zhou, Z., & Zhong, M. (2019). Risk analysis of metro station passenger flow based on passenger flow patterns. <i> Journal of Tsinghua University (Science & Technology), 59 (10), 854-860</i>. <br/>
