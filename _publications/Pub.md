@@ -8,7 +8,7 @@ permalink: /publications/
 
 <p> In transportation systems, there is an inherent vulnerability due to various physical disturbances and disruptions, such as extreme weather events and unpredictable incidents. Meanwhile, the integration of Intelligent Transportation Systems (ITS) and the emergence of Connected Automated Vehicles (CAVs) have introduced a new dimension of vulnerability to the cyber level. Advanced technologies have undeniably enhanced the system’s safety and efficiency, yet they also introduce the possibility of cybersecurity vulnerabilities, which might have serious and unpredictable consequences for system operation. </p>
 
-<p>Therefore, understanding and enhancing cyber-physical resilience is crucial to assessing the potential impact of these disturbances, maintaining system performance at an acceptable level amid challenges, and sustaining safe, efficient mobility and economic stability. A brief summary of my work is provided below.</p>
+<p>Therefore, understanding and enhancing cyber-physical resilience is crucial to assessing the potential impact of these disturbances, maintaining system performance at an acceptable level amid challenges, and sustaining safe, efficient mobility and economic stability. A summary of my work is provided below.</p>
 
 <b> Cyber Resilience </b>
 <ul>
@@ -18,9 +18,9 @@ permalink: /publications/
 <li>Integrating a reliability evaluation mechanism into Cooperative Adaptive Cruise Control (CACC) systems to enhance stability.</li>
 </ul>
 
-<b> Physcial Resilience </b>
+<b> Physical Resilience </b>
 <ul>
-<li>Utilizing advanced machine learning algorithms to address physical disturbances (such as extreme weather, crashes, and incidents) in systems, aiming to reduce disruptions and economic losses.</li>
+<li>Utilizing advanced machine learning algorithms to address physical disturbances (such as extreme weather, crashes, and incidents) in systems to reduce disruptions and economic losses.</li>
 
 <li>Focusing on equity concerns in transportation, particularly in abnormal conditions, to guarantee fair and inclusive solutions</li>
 </ul>
