@@ -116,7 +116,7 @@ Competitions
 </div>
 
 
-Academic and Industry Experience
+Academic & Industry Experience
 ======
 <div style="text-align: justify"> 
 <b>Teaching Assistant</b>, Aug.2023 - Dec.2023<br/>
