@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Howdy, y’all!"
+title: "Howdy, Y’all!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
