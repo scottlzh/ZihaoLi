@@ -41,6 +41,18 @@ Biography
 
 <hr color="#FFFFFF" />
 
+Research Interest
+======
+<ul>
+<li>Cyber-Physical Transportation Resilience</li>
+<li>AI and Data Analytics Applications on Transportation</li>
+<li>Connected Automated Transportation System and Vehicle Control </li>
+<li>Traffic Operation and Safety  </li>
+<li>Traffic Flow Theory </li>
+</ul>
+
+
+<hr color="#FFFFFF" />
 
 Education
 ======
@@ -62,26 +74,13 @@ Shenyang, China<br/>
 
 <hr color="#FFFFFF" />
 
-Research Interest
-======
-<ul>
-<li>Cyber-Physical Transportation Resilience</li>
-<li>AI and Data Analytics Applications on Transportation</li>
-<li>Connected Automated Transportation System and Vehicle Control </li>
-<li>Traffic Operation and Safety  </li>
-<li>Traffic Flow Theory </li>
-</ul>
-
-
-<hr color="#FFFFFF" />
-
 Honors & Awards
 ======
 <ul>
 <li>2023-2024 Texas A&M University Dissertation Fellowship, Top 1% (2024)</li>
 <li>TAMU Graduate School Research and Presentation Travel Award (2023)</li>
 <li>Texas A&M Transportation Institute (TTI) Keese-Wootan Transportation Fellowship, Top 5% (2022) </li>
-<li>ITS Texas Scholarship, Top 1% (2021)  </li>
+<li>ITS Texas Scholarship, Top 1% (2021)</li>
 <li>Zachry Department of Civil & Environmental Engineering Excellence Fellowship (2020)</li>
 <li>Tsinghua University Excellence Scholarship, Top 5% (2019)</li>
 <li>Direct Admission to the Graduate School at Tsinghua University, Top 1% (2017)</li>

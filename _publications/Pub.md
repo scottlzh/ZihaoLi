@@ -6,6 +6,23 @@ author_profile: true
 permalink: /publications/ 
 ---
 
+<p> In transportation systems, there is an inherent vulnerability due to various physical disturbances and disruptions, such as extreme weather events and unpredictable incidents. These have long been recognized as critical factors affecting the resilience and reliability of our transportation networks. Meanwhile, the integration of Intelligent Transportation Systems (ITS) and the emergence of Connected Automated Vehicles (CAVs) have introduced a new dimension of vulnerability to the cyber level. Advanced technologies have undeniably enhanced the system’s safety and efficiency, yet they also introduce the possibility of cybersecurity vulnerabilities, including cyberattacks and sensor failure, which might have serious and unpredictable consequences for system operation. Therefore, understanding and enhancing cyber-physical resilience is crucial to assessing the potential impact of these disturbances, maintaining system performance at an acceptable level amid challenges, and sustaining safe, efficient mobility and economic stability. A brief summary of my work is provided below.</p>
+
+<b> Cyber Resilience </b>
+<ul>
+<li>Developing an analytical framework to understand the evolution of disturbances caused by cut-in maneuvers in CAV systems.
+</li>
+<li>Conducting a probabilistic impact analysis of cyberattacks on CAV systems, focusing on functional safety.</li>
+<li>Integrating a reliability evaluation mechanism into Cooperative Adaptive Cruise Control (CACC) systems to enhance stability.</li>
+</ul>
+
+<b> Physcial Resilience </b>
+<ul>
+<li>Utilizing advanced machine learning algorithms to address physical disturbances (such as extreme weather, crashes, and incidents) in systems, aiming to reduce disruptions and economic losses.</li>
+
+<li>Focusing on equity concerns in transportation, particularly in abnormal conditions, to guarantee fair and inclusive solutions</li>
+</ul>
+
 <p>For more detailed information, please visit my<a href="https://scholar.google.com/citations?user=7dLezg0AAAAJ&hl=en" style="color:#5dbcd2;"> Google Scholar</a> </p>
 
 
