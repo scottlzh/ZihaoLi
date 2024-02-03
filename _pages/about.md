@@ -36,7 +36,7 @@ Biography
 <!-- --------------------------------First Person --------------------------- -->
 
 <div style="text-align: justify"> 
-<p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering (CVEN), at Texas A&M University (TAMU) under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>. He is currently the subcommittee member of the TRB Standing Committee of Artificial Intelligence and Advanced Computing Applications (AED50). </p>
+<p>I am a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering (CVEN), at Texas A&M University (TAMU). I am conducting my research under the supervision of<a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;"> Dr. Yunlong Zhang</a> and am also co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>. Additionally, I serve as a subcommittee member of the TRB Standing Committee of Artificial Intelligence and Advanced Computing Applications (AED50). </p>
 
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.</p>
 
