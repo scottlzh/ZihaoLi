@@ -1,13 +1,16 @@
 ---
 layout: archive
-title: "Skills"
+title: "Skills & Hobbies"
 collection: portfolio
 author_profile: true
 permalink: /portfolio/ 
 ---
 
-<!-- Skills -->
-<!-- ====== -->
+<hr color="#FFFFFF" />
+
+Skills
+======
+
 * Programming: 
   * Python, R, SQL, MATLAB
 * Libraries: 
