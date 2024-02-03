@@ -97,7 +97,7 @@ C3. &emsp;  Zhang, C., <b><u>Li, Z.</u></b>, & Kuhn, B. (2024). Future Developme
 
 C4. &emsp;  <b><u>Li, Z.</u></b>, Li, X., Zhang, H., Zhou, Y., Xie, S., & Zhang, Y., (2023). Overview of Sensing Attacks on Autonomous Vehicle Technologies and Impact on Traffic Flow.  <i> IEEE International Conference on Sensing, Measurement & Data Analytics in the Era of Artificial Intelligence</i>. <br/><br/>
 
-C5.  &emsp; Yue, X., <b><u>Li, Z.</u></b>, Zhou, Y., & Zhang, Y., (2023) Markov-based Analytical Approximation for Mixed Traffic Delay for Signalized Intersection.  <i> IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)</i>. <br/><br/><br/>
+C5.  &emsp; Yue, X., <b><u>Li, Z.</u></b>, Zhou, Y., & Zhang, Y., (2023) Markov-based Analytical Approximation for Mixed Traffic Delay for Signalized Intersection.  <i> IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)</i>. <br/><br/>
 
 C6.&emsp;  <b><u>Li, Z.</u></b>, Ma, C., Wei, Z., & Zhang, Y., (2023) Integrating Attention Mechanism for Predicting Crash-Related Traffic Violations with Textual Description. <i>  Transportation Research Board (TRB) 102nd Annual Meeting</i>. <br/><br/>
 

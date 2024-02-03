@@ -58,11 +58,13 @@ Research Interest
 
 Education
 ======
-<p><div style="text-align: justify"> 
+<div style="text-align: justify"> 
+<p>
 <div style="font-size: 22px;"><b>Texas A&M University</b></div>
 College Station, United States<br/>
 <strong>Ph.D.</strong>, Zachry Department of Civil and Environmental Engineering, 2020-2024<br/>
-<strong>Dissertation</strong>: Enhancing the Cyber-Physical Resilience of Connected Automated Vehicle System<br/></p>
+<strong>Dissertation</strong>: Enhancing the Cyber-Physical Resilience of Connected Automated Vehicle System<br/>
+</p>
 
 <p><div  style="font-size: 22px;"><b>Tsinghua University</b></div>
 Beijing, China<br/>
@@ -73,7 +75,8 @@ Beijing, China<br/>
 <p><div style="font-size: 22px;"><b>Northeastern University</b></div>
 Shenyang, China<br/>
 <strong>B.Eng.</strong>, School of Resource and Civil Engineering, 2013-2017<br/>
-<strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent<br/></p>
+<strong>Thesis</strong>: Analysis of Leakage Consequences and Related Factors in Urban LPG Pipelines Using Fluent<br/>
+</p>
 
 
 
