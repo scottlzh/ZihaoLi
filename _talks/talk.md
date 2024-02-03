@@ -13,20 +13,20 @@ permalink: /talks/
 Lectures and Invited Talks
 ======
 
-T1. Ranking Port Impact for Incoming Tropical Cyclones: A Recommendation Algorithm. <i>103rd TRB, Washington DC, USA, Jan 2024.</i> <br/>
+T1.   Ranking Port Impact for Incoming Tropical Cyclones: A Recommendation Algorithm. <i>103rd TRB, Washington DC, USA, Jan 2024.</i> <br/>
 
 
 
-T2. Enhancing Vehicular Platoon Stability in the Presence of Communication Cyberattacks: A Reliable Longitudinal Cooperative Control Strategy. <i>103rd TRB, Washington DC, USA, Jan 2024.</i> <br/>
+T2.   Enhancing Vehicular Platoon Stability in the Presence of Communication Cyberattacks: A Reliable Longitudinal Cooperative Control Strategy. <i>103rd TRB, Washington DC, USA, Jan 2024.</i> <br/>
 
 
-T3. AI in Transportation – Feature Engineering. <i>Graduate Course-CVEN 696</i>, Texas A&M University, Sep 2023 <br/>
+T3.   AI in Transportation – Feature Engineering. <i>Graduate Course-CVEN 696</i>, Texas A&M University, Sep 2023 <br/>
 
 
-T4. Machine learning in Traffic Signal Control. <i>Graduate Course-CVEN 618</i>, Texas A&M University, May 2023 <br/>
+T4.   Machine learning in Traffic Signal Control. <i>Graduate Course-CVEN 618</i>, Texas A&M University, May 2023 <br/>
 
 
-T5. AI in Transportation – Feature Engineering. <i>Undergraduate Course-CVEN 307</i>, Texas A&M University, Apr 2023 <br/>
+T5.   AI in Transportation – Feature Engineering. <i>Undergraduate Course-CVEN 307</i>, Texas A&M University, Apr 2023 <br/>
 
 
 Academic Service

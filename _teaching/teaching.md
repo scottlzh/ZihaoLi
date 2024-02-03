@@ -13,7 +13,6 @@ permalink: /teaching/
 <ul>
 <b>CVEN 307 Transportation Engineering</b>
 Undergraduate Course, Fall 2023<br/>
-Texas A&M University <br/>
 <br/>
 
 <li> Fundamental principles and methods in planning, design, and operation of transportation systems, with about 120 undergraduate students across two sections. </li>

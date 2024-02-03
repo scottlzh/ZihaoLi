@@ -22,7 +22,8 @@ Vision
 ======
 <div style="text-align: justify"> 
 
-<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</i> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions. As a transportation researcher, my vision emphasizes first gaining a deep understanding of the fundamentals of transportation systems, which then guides the thoughtful integration of advanced technology. This approach aims to improve <b>safety</b>, <b>stability</b>, <b>efficiency</b>, <b>equity</b>, <b>intellgence</b>, <b>resilience</b>, and <b>sustainability</b> of our transportation system.</p> 
+<p> Inspired by Stephen Hawking's principle that <i>"One of the basic rules of the universe is that nothing is perfect,"</i> we need to embrace imperfection to innovate and improve through engineering, constantly seeking better, adaptable, and sustainable solutions.<br/>
+As a transportation researcher, my vision emphasizes first gaining a deep understanding of the fundamentals of transportation systems, which then guides the thoughtful integration of advanced technology. This approach aims to improve <b>safety</b>, <b>stability</b>, <b>efficiency</b>, <b>equity</b>, <b>intellgence</b>, <b>resilience</b>, and <b>sustainability</b> of our transportation system.</p> 
 
 
 <hr color="#FFFFFF" />
@@ -34,12 +35,13 @@ Biography
 
 <!-- --------------------------------First Person --------------------------- -->
 
-
+<div style="text-align: justify"> 
 <p>Zihao 'Scott' Li is a final-year Ph.D. student in the Zachry Department of Civil and Environment Engineering (CVEN), at Texas A&M University (TAMU) under the supervision of <a href="https://engineering.tamu.edu/civil/profiles/yzhang.html" style="color:#5dbcd2;">Dr. Yunlong Zhang</a>, and co-advised by  <a href="https://engineering.tamu.edu/civil/profiles/bwang.html" style="color:#5dbcd2;">Dr. Xiubin "Bruce" Wang</a> and <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html" style="color:#5dbcd2;">Dr. Yang Zhou</a>. He is currently the subcommittee member of the TRB Standing Committee of Artificial Intelligence and Advanced Computing Applications (AED50). </p>
 
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by my Email.</p>
 
 <hr color="#FFFFFF" />
+</div>
 
 Research Interest
 ======
