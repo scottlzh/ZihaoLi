@@ -7,6 +7,7 @@ permalink: /teaching/
 ---
 
 
+<div style="text-align: justify"> 
 
 <hr color="#FFFFFF" />
 
@@ -19,4 +20,6 @@ Undergraduate Course, Fall 2023<br/>
 <li> Taught lectures about safety data analysis and traffic operation, graded assignments, and hosted office hours.</li>
 <li> Received positive feedback from students in TA evaluations.</li>
 </ul>
+
+</div>
 

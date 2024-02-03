@@ -13,6 +13,7 @@ permalink: /publications/
 
 </div>
 
+<div style="text-align: justify"> 
 <b> Cyber Resilience </b>
 <ul>
 <li>Developing an analytical framework to understand the evolution of disturbances caused by cut-in maneuvers in CAV systems.
@@ -20,13 +21,16 @@ permalink: /publications/
 <li>Conducting a probabilistic impact analysis of cyberattacks on CAV systems, focusing on functional safety.</li>
 <li>Integrating a reliability evaluation mechanism into Cooperative Adaptive Cruise Control (CACC) systems to enhance stability.</li>
 </ul>
+</div>
 
+<div style="text-align: justify"> 
 <b> Physical Resilience </b>
 <ul>
 <li>Utilizing advanced machine learning algorithms to address physical disturbances (such as extreme weather, crashes, and incidents) in systems to reduce disruptions and economic losses.</li>
 
 <li>Focusing on equity concerns in transportation, particularly in abnormal conditions, to guarantee fair and inclusive solutions</li>
 </ul>
+</div>
 
 <p>For more detailed information, please visit my<a href="https://scholar.google.com/citations?user=7dLezg0AAAAJ&hl=en" style="color:#5dbcd2;"> Google Scholar</a> </p>
 
@@ -66,7 +70,7 @@ J9. &emsp;  Wei, Z., Das, S., Wu, Y., <b><u>Li, Z.</u></b>, & Zhang, Y., (2024).
 Publications Under Review
 ======
 <div style="text-align: justify"> 
-J10. &emsp;  <b><u>Li, Z.</u></b>, Zhou, Y., Zhang, Y., & Li, X. (2024). Enhancing Vehicular Platoon Stability in the Presence of Communication Cyberattacks: A Reliable Longitudinal Cooperative Control Strategy.  <i> Transportation Research Part C: Emerging Technologies</i>. (1st round)<br/>
+<p> J10. &emsp;  <b><u>Li, Z.</u></b>, Zhou, Y., Zhang, Y., & Li, X. (2024). Enhancing Vehicular Platoon Stability in the Presence of Communication Cyberattacks: A Reliable Longitudinal Cooperative Control Strategy.  <i> Transportation Research Part C: Emerging Technologies</i>. (1st round)<br/>
 
 J11. &emsp;  <b><u>Li, Z.</u></b>, Zhou, Y., Chen, D., & Zhang, Y. (2024) Disturbances and Safety Analysis of Adaptive Cruise Control for Cut-in Scenarios: A Theoretical Framework.  <i> Transportation Research Part C: Emerging Technologies</i>. (2nd round)<br/>
 
@@ -79,12 +83,13 @@ J14. &emsp;  Ma, C., <b><u>Li, Z.</u></b>, Wang, X., Zhang, Y., & Mahmoudzadeh, 
 J15. &emsp;  Wei, Z., Zhou, Y., <b><u>Li, Z.</u></b>, Kulkarni, M., Zhang, Y. (2024) Equitable traffic crash prediction framework to support safety improvement grants allocation: A Fair Learning Approach. Accident  <i> Analysis & Prevention</i>. (under review)<br/>
 
 J16. &emsp;  Zhang, H., Zhou, Y., Zou, Y., <b><u>Li, Z.</u></b>, & Tang, S. Integrated Control of Lane-Changing and Car-Following based on Parametrized Deep Q-Network with Hybrid Action Space.  <i> Neurocomputing</i>.(under review)<br/>
+</p> 
 </div>
 
 PRESENTATION & CONFERENCE PROCEEDINGS
 ======
 <div style="text-align: justify"> 
-C1.  &emsp; <b><u>Li, Z.</u></b>, Zhou, Y., & Zhang, Y., (2024). Enhancing Vehicular Platoon Stability in the Presence of Communication Cyberattacks: A Reliable Longitudinal Cooperative Control Strategy. <i>Transportation Research Board (TRB) 103rd Annual Meeting</i>. <br/>
+<p> C1.  &emsp; <b><u>Li, Z.</u></b>, Zhou, Y., & Zhang, Y., (2024). Enhancing Vehicular Platoon Stability in the Presence of Communication Cyberattacks: A Reliable Longitudinal Cooperative Control Strategy. <i>Transportation Research Board (TRB) 103rd Annual Meeting</i>. <br/>
 
 C2.  &emsp; <b><u>Li, Z.</u></b>, Zhang, Y., & Wang, X. (2024). Ranking Port Impact for Incoming Tropical Cyclones: A Recommendation Algorithm. <i>  Transportation Research Board (TRB) 103rd Annual Meeting</i>. <br/>
 
@@ -109,6 +114,7 @@ C10. &emsp;  Ma, C., Wang, X., <b><u>Li, Z.</u></b>, & Zhang, Y. (2022). An Adap
 C11. &emsp;  Kong, X., <b><u>Li, Z.</u></b>, Wallis, J., & Zhang, Y. (2022). Investigating Factors Influencing Deck Conditions of Concrete Bridge and Steel Bridge Using an Interpretable Machine Learning Framework.  <i> Transportation Research Board (TRB) 101st Annual Meeting</i>. <br/>
 
 C12. &emsp;  <b><u>Li, Z.</u></b>, Zhou, Y., Li, Z., Zhou, W., & Zhong, M. (2020). Impact analysis of new metro line opening on passenger flow: A case study of Shenzhen.  <i> 2019 8th International Conference on Transportation and Traffic Engineering</i>. <br/>
+</p> 
 
 <hr color="#FFFFFF" />
 </div>
