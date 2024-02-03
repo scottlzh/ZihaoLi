@@ -119,20 +119,20 @@ Competitions
 Academic and Industry Experience
 ======
 <div style="text-align: justify"> 
-<li><b>Teaching Assistant</b>, Aug.2023 - Dec.2023<br/>
-Zachry Department of Civil and Environmental Engineering, TAMU<br/></li>
+<b>Teaching Assistant</b>, Aug.2023 - Dec.2023<br/>
+Zachry Department of Civil and Environmental Engineering, TAMU<br/><br/>
 
-<li><b>Research Assistant</b>, Apr.2021 - Aug.2023<br/>
-Mobility Division, Texas A&M Transportation Institute (TTI)<br/></li>
+<b>Research Assistant</b>, Apr.2021 - Aug.2023<br/>
+Mobility Division, Texas A&M Transportation Institute (TTI)<br/><br/>
 
-<li><b>Research Assistant</b>, Jan.2021 - Apr.2021<br/>
-Zachry Department of Civil and Environmental Engineering, TAMU<br/></li>
+<b>Research Assistant</b>, Jan.2021 - Apr.2021<br/>
+Zachry Department of Civil and Environmental Engineering, TAMU<br/><br/>
 
-<li><b>Data Analyst Intern</b>, Mar.2019 - Jun.2019<br/>
-DIDI Chuxing (China’s largest ride-hailing company), Beijing, China<br/></li>
+<b>Data Analyst Intern</b>, Mar.2019 - Jun.2019<br/>
+DIDI Chuxing (China’s largest ride-hailing company), Beijing, China<br/><br/>
 
-<li><b>R&D Intern</b>, Jan.2017 - May.2017<br/>
-BMW Brilliance Automotive, Shenyang, China <br/></li>
+<b>R&D Intern</b>, Jan.2017 - May.2017<br/>
+BMW Brilliance Automotive, Shenyang, China <br/>
 
 <hr color="#FFFFFF" />
 </div>
