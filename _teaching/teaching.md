@@ -10,7 +10,7 @@ permalink: /teaching/
 
 <hr color="#FFFFFF" />
 
-</ul>
+<ul>
 <b>CVEN 307 Transportation Engineering</b>
 Undergraduate Course, Fall 2023<br/>
 Texas A&M University <br/>
