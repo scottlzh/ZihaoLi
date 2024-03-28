@@ -141,6 +141,9 @@ BMW Brilliance Automotive, Shenyang, China <br/>
 News
 ======
 <div style="text-align: justify"> 
+
+<p><b>2024 News:</b> Our paper has been accpeted for a podium presentation at ISTTT25.
+
 <p><b>2023 News:</b> I am deeply appreciative to receive <a href="https://grad.tamu.edu/knowledge-center/funding-and-benefits/2023-2024-dissertation-fellowship-awardees" style="color:#5dbcd2;"> the 2023-2024 Dissertation Fellowship </a> to support my final phase of my Ph.D.</p>
 
 <p><b>2023 News:</b> Two of my papers have been accepted for lecture sessions and one for a poster session at the 103rd TRBAM.
