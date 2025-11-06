@@ -40,7 +40,7 @@ I collaborate closely with
 on <i style="color:#500000;">active safety analysis</i>, 
 <a href="https://engineering.wisc.edu/directory/profile/sue-ahn/" style="color:#500000;">Dr. Suehyun Ahn</a> from the University of Wisconsin–Madison on <i style="color:#500000;">traffic flow theory</i>, 
 and 
-<a href="https://engineering.tamu.edu/cse/profiles/tu-zhengzhong.html" style="color:#500000;">Dr. Zhenzhong Tu</a> from Computer Science at TAMU on <i style="color:#500000;">agentic and generative AI</i> for transportation systems.
+<a href="https://engineering.tamu.edu/cse/profiles/tu-zhengzhong.html" style="color:#500000;">Dr. Zhenzhong Tu</a> from Computer Science at TAMU on <i style="color:#500000;">agentic and generative AI</i> for civil infrastructure systems.
 </p>
 <p><b style="color:#500000;">I am open to collaboration opportunities.</b> Feel free to contact me by email (scottlzh[AT]tamu.edu).</p>
 </div>
