@@ -38,7 +38,7 @@ and
 I collaborate closely with 
 <a href="https://engineering.tamu.edu/civil/profiles/dlord.html" style="color:#500000;">Dr. Dominique Lord</a> 
 on <i style="color:#500000;">active safety analysis</i>, 
-<a href="https://engineering.wisc.edu/directory/profile/sue-ahn/" style="color:#500000;">Dr. Suehyun Ahn</a> from the University of Wisconsin–Madison on <i style="color:#500000;">traffic flow theory</i>, 
+<a href="https://engineering.wisc.edu/directory/profile/sue-ahn/" style="color:#500000;">Dr. Sue Ahn</a> from the University of Wisconsin–Madison on <i style="color:#500000;">traffic flow theory</i>, 
 and 
 <a href="https://engineering.tamu.edu/cse/profiles/tu-zhengzhong.html" style="color:#500000;">Dr. Zhenzhong Tu</a> from Computer Science at TAMU on <i style="color:#500000;">agentic and generative AI</i> for civil infrastructure systems.
 </p>
@@ -49,11 +49,11 @@ and
 
 <h2 style="color:#500000;">Research Interests</h2>
 <ul style="font-family: Calibri, Arial, sans-serif; line-height:1.7; font-size:13pt; color:#111; list-style-type:square;">
-  <li><span style="color:#500000;">Multimodal AI and Agentic LLM</span> for Intelligent Transportation System</li>
-  <li><span style="color:#500000;">Cyber-Physical-Human Resilience</span> in Traffic Operation</li>
-  <li><span style="color:#500000;">Active Traffic Safety Analysis</span> and Intervention</li>
-  <li><span style="color:#500000;">Traffic Flow Theory</span> and Modeling</li>
-  <li><span style="color:#500000;">Connected Automated Transportation Systems</span> and Vehicle Control</li>
+  <li><span style="color:#500000;">Multimodal AI and Agentic LLM for Intelligent Transportation System</span></li>
+  <li><span style="color:#500000;">Cyber-Physical-Human Resilience in Traffic Operation</span></li>
+  <li><span style="color:#500000;">Active Traffic Safety Analysis and Intervention</span></li>
+  <li><span style="color:#500000;">Traffic Flow Theory and Modeling</span></li>
+  <li><span style="color:#500000;">Connected Automated Transportation Systems and Vehicle Control</span></li>
 </ul>
 
 <hr style="border:none; height:1px; background-color:#e5e5e5; margin:1.2em 0;" />
@@ -81,11 +81,11 @@ Shenyang, China<br/>
 <h2 style="color:#500000;">Honors &amp; Awards</h2>
 <div style="text-align: justify; font-family: Calibri, Arial, sans-serif; line-height:1.8; font-size:13pt; color:#111;">
 <ul style="list-style-type:square;">
-  <li><span style="color:#500000;">University Transportation Center (UTC)</span> for Freight Transportation for Efficient &amp; Resilient Supply Chain (FERSC) – Special Recognition of Outstanding Leadership and Services (2024)</li>
-  <li><span style="color:#500000;">2023–2024 Texas A&amp;M University Dissertation Fellowship</span> (2024)</li>
+  <li>University Transportation Center (UTC) for Freight Transportation for Efficient &amp; Resilient Supply Chain (FERSC) – Special Recognition of Outstanding Leadership and Services (2024)</li>
+  <li>2023–2024 Texas A&amp;M University Dissertation Fellowship (2024)</li>
   <li>TAMU CVEN Graduate Student Travel Funds (2024)</li>
   <li>TAMU Graduate School Research and Presentation Travel Award (2023)</li>
-  <li><span style="color:#500000;">Texas A&amp;M Transportation Institute (TTI) Keese-Wootan Fellowship</span> (2022)</li>
+  <li>Texas A&amp;M Transportation Institute (TTI) Keese-Wootan Fellowship (2022)</li>
   <li>ITS Texas Scholarship (2021)</li>
   <li>Zachry Department of Civil &amp; Environmental Engineering Excellence Fellowship (2020)</li>
   <li>Tsinghua University Excellence Scholarship (2019)</li>
@@ -93,6 +93,7 @@ Shenyang, China<br/>
   <li>Outstanding Bachelor’s Graduation Thesis, Northeastern University (2017)</li>
 </ul>
 </div>
+
 
 <hr style="border:none; height:1px; background-color:#e5e5e5; margin:1.2em 0;" />
 

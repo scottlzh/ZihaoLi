@@ -56,7 +56,7 @@ permalink: /talks/
 </ul>
 
 <h3 style="color:#500000;">Journal Reviewer</h3>
-<div style="columns:2; -webkit-columns:2; -moz-columns:2; column-gap:40px;">
+<div style="columns:1; -webkit-columns:1; -moz-columns:1; column-gap:0;">
 <ul style="margin-top:0; margin-bottom:12px; list-style-type:square; color:#111;">
   <li>Transportation Research Part C: Emerging Technologies</li>
   <li>Transportation Research Part E: Logistics and Transportation Review</li>
