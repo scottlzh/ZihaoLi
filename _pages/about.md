@@ -111,7 +111,7 @@ Shenyang, China<br/>
 
 <h2 style="color:#500000;">News</h2>
 <div style="text-align: justify; font-family: Calibri, Arial, sans-serif; line-height:1.8; font-size:13pt; color:#111;">
-<p><b style="color:#500000;">2025 News:</b> Our paper <i>CyPortQA: Benchmarking Multimodal Large Language Models for Cyclone Preparedness in Port Operation</i> has been accepted by the <b style="color:#500000;">AAAI Conference on Artificial Intelligence (AAAI 2026)</b>.</p>
+<p><b style="color:#500000;">2025 News:</b> My corresponding paper <i>CyPortQA: Benchmarking Multimodal Large Language Models for Cyclone Preparedness in Port Operation</i> has been accepted by the <b style="color:#500000;">AAAI Conference on Artificial Intelligence (AAAI 2026)</b>.</p>
 <p><b style="color:#500000;">2025 News:</b> Five of our papers have been accepted for presentation at the <b style="color:#500000;">105th Transportation Research Board (TRB) Annual Meeting</b>, including one podium presentation.</p>
 <p><b style="color:#500000;">2024 News:</b> Our paper has been accepted for a podium presentation at <b style="color:#500000;">ISTTT 25</b>.</p>
 <p><b style="color:#500000;">2023 News:</b> I am deeply appreciative to receive <a href="https://grad.tamu.edu/knowledge-center/funding-and-benefits/2023-2024-dissertation-fellowship-awardees" style="color:#500000;">the 2023–2024 Dissertation Fellowship</a> to support the final phase of my Ph.D.</p>
