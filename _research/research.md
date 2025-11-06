@@ -6,8 +6,8 @@ author_profile: true
 permalink: /research/ 
 ---
 
-<!-- Skills -->
-<!-- ====== -->
+Skills
+======
 * Programming: 
   * Python, R, SQL, MATLAB
 * Libraries: 

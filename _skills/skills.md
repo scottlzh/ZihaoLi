@@ -10,9 +10,9 @@ permalink: /skill/
 * Programming: 
   * Python, R, SQL, MATLAB
 * Libraries: 
-  * PyTorch, scikit-learn, Keras, PyTorch Geometric, Pandas, Numpy, Scipy, Matplotlib 
+  * PyTorch, PyTorch Geometric, LangChain, LangGraph, scikit-learn, Keras, Pandas, Numpy, Scipy, Matplotlib 
 * Software:
-  * SUMO, SPSS, ArcGIS, CORSIM, HCS, Synchro, Civil CAD, AutoCAD, Origin
+  * SUMO, CARLA, PhysX, SPSS, ArcGIS, CORSIM, HCS, Synchro, Civil CAD, AutoCAD, Origin
 * Language:
   * English (Proficient), Mandarin (Native), and Cantonese (Intermediate)
 
